@@ -1,0 +1,1822 @@
+[
+  {
+    "id_cita": 1,
+    "id_estudiante": 1108,
+    "id_psicosocial": 1011,
+    "id_alerta": 1,
+    "fecha": "2026-09-28",
+    "hora": "08:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 2,
+    "id_estudiante": 1111,
+    "id_psicosocial": 1011,
+    "id_alerta": 2,
+    "fecha": "2026-10-12",
+    "hora": "09:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 3,
+    "id_estudiante": 1124,
+    "id_psicosocial": 1011,
+    "id_alerta": 5,
+    "fecha": "2026-09-24",
+    "hora": "07:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 4,
+    "id_estudiante": 1135,
+    "id_psicosocial": 1011,
+    "id_alerta": 6,
+    "fecha": "2026-10-19",
+    "hora": "08:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 5,
+    "id_estudiante": 1138,
+    "id_psicosocial": 1011,
+    "id_alerta": 7,
+    "fecha": "2026-09-28",
+    "hora": "09:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 6,
+    "id_estudiante": 1151,
+    "id_psicosocial": 1011,
+    "id_alerta": 10,
+    "fecha": "2026-10-14",
+    "hora": "07:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 7,
+    "id_estudiante": 1162,
+    "id_psicosocial": 1011,
+    "id_alerta": 11,
+    "fecha": "2026-10-08",
+    "hora": "08:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 8,
+    "id_estudiante": 1165,
+    "id_psicosocial": 1011,
+    "id_alerta": 12,
+    "fecha": "2026-10-19",
+    "hora": "09:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 9,
+    "id_estudiante": 1189,
+    "id_psicosocial": 1011,
+    "id_alerta": 15,
+    "fecha": "2026-09-22",
+    "hora": "07:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 10,
+    "id_estudiante": 1192,
+    "id_psicosocial": 1011,
+    "id_alerta": 16,
+    "fecha": "2026-10-07",
+    "hora": "08:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 11,
+    "id_estudiante": 1216,
+    "id_psicosocial": 1011,
+    "id_alerta": 20,
+    "fecha": "2026-10-12",
+    "hora": "07:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 12,
+    "id_estudiante": 1219,
+    "id_psicosocial": 1011,
+    "id_alerta": 21,
+    "fecha": "2026-09-22",
+    "hora": "08:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 13,
+    "id_estudiante": 1243,
+    "id_psicosocial": 1011,
+    "id_alerta": 25,
+    "fecha": "2026-09-28",
+    "hora": "07:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 14,
+    "id_estudiante": 1246,
+    "id_psicosocial": 1011,
+    "id_alerta": 26,
+    "fecha": "2026-10-12",
+    "hora": "08:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 15,
+    "id_estudiante": 1262,
+    "id_psicosocial": 1011,
+    "id_alerta": 30,
+    "fecha": "2026-10-05",
+    "hora": "07:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 16,
+    "id_estudiante": 1270,
+    "id_psicosocial": 1011,
+    "id_alerta": 31,
+    "fecha": "2026-10-19",
+    "hora": "08:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 17,
+    "id_estudiante": 1273,
+    "id_psicosocial": 1011,
+    "id_alerta": 32,
+    "fecha": "2026-09-28",
+    "hora": "09:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 18,
+    "id_estudiante": 1289,
+    "id_psicosocial": 1011,
+    "id_alerta": 35,
+    "fecha": "2026-09-24",
+    "hora": "07:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 19,
+    "id_estudiante": 1297,
+    "id_psicosocial": 1011,
+    "id_alerta": 36,
+    "fecha": "2026-10-05",
+    "hora": "08:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "CANCELADA"
+  },
+  {
+    "id_cita": 20,
+    "id_estudiante": 1300,
+    "id_psicosocial": 1011,
+    "id_alerta": 37,
+    "fecha": "2026-10-19",
+    "hora": "09:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 21,
+    "id_estudiante": 1303,
+    "id_psicosocial": 1011,
+    "id_alerta": 38,
+    "fecha": "2026-09-28",
+    "hora": "10:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 22,
+    "id_estudiante": 1316,
+    "id_psicosocial": 1011,
+    "id_alerta": 41,
+    "fecha": "2026-10-15",
+    "hora": "08:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 23,
+    "id_estudiante": 1324,
+    "id_psicosocial": 1011,
+    "id_alerta": 42,
+    "fecha": "2026-09-21",
+    "hora": "09:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 24,
+    "id_estudiante": 1327,
+    "id_psicosocial": 1011,
+    "id_alerta": 43,
+    "fecha": "2026-10-05",
+    "hora": "10:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 25,
+    "id_estudiante": 1330,
+    "id_psicosocial": 1011,
+    "id_alerta": 44,
+    "fecha": "2026-10-19",
+    "hora": "11:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 26,
+    "id_estudiante": 1343,
+    "id_psicosocial": 1011,
+    "id_alerta": 47,
+    "fecha": "2026-10-01",
+    "hora": "09:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 27,
+    "id_estudiante": 1351,
+    "id_psicosocial": 1011,
+    "id_alerta": 48,
+    "fecha": "2026-10-12",
+    "hora": "10:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 28,
+    "id_estudiante": 1354,
+    "id_psicosocial": 1011,
+    "id_alerta": 49,
+    "fecha": "2026-09-21",
+    "hora": "11:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 29,
+    "id_estudiante": 1357,
+    "id_psicosocial": 1011,
+    "id_alerta": 50,
+    "fecha": "2026-10-05",
+    "hora": "07:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 30,
+    "id_estudiante": 1370,
+    "id_psicosocial": 1011,
+    "id_alerta": 53,
+    "fecha": "2026-10-22",
+    "hora": "10:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 31,
+    "id_estudiante": 1381,
+    "id_psicosocial": 1011,
+    "id_alerta": 54,
+    "fecha": "2026-10-12",
+    "hora": "11:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "CANCELADA"
+  },
+  {
+    "id_cita": 32,
+    "id_estudiante": 1384,
+    "id_psicosocial": 1011,
+    "id_alerta": 55,
+    "fecha": "2026-09-21",
+    "hora": "07:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 33,
+    "id_estudiante": 1397,
+    "id_psicosocial": 1011,
+    "id_alerta": 58,
+    "fecha": "2026-10-07",
+    "hora": "10:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 34,
+    "id_estudiante": 1408,
+    "id_psicosocial": 1011,
+    "id_alerta": 59,
+    "fecha": "2026-10-01",
+    "hora": "11:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 35,
+    "id_estudiante": 1411,
+    "id_psicosocial": 1011,
+    "id_alerta": 60,
+    "fecha": "2026-10-12",
+    "hora": "07:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 36,
+    "id_estudiante": 1424,
+    "id_psicosocial": 1011,
+    "id_alerta": 63,
+    "fecha": "2026-09-22",
+    "hora": "10:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "CANCELADA"
+  },
+  {
+    "id_cita": 37,
+    "id_estudiante": 1435,
+    "id_psicosocial": 1011,
+    "id_alerta": 64,
+    "fecha": "2026-10-21",
+    "hora": "11:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 38,
+    "id_estudiante": 1438,
+    "id_psicosocial": 1011,
+    "id_alerta": 65,
+    "fecha": "2026-10-01",
+    "hora": "07:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 39,
+    "id_estudiante": 1451,
+    "id_psicosocial": 1011,
+    "id_alerta": 68,
+    "fecha": "2026-10-12",
+    "hora": "10:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 40,
+    "id_estudiante": 1462,
+    "id_psicosocial": 1012,
+    "id_alerta": 69,
+    "fecha": "2026-10-06",
+    "hora": "11:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 41,
+    "id_estudiante": 1465,
+    "id_psicosocial": 1012,
+    "id_alerta": 70,
+    "fecha": "2026-10-21",
+    "hora": "07:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 42,
+    "id_estudiante": 1489,
+    "id_psicosocial": 1012,
+    "id_alerta": 73,
+    "fecha": "2026-09-21",
+    "hora": "10:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 43,
+    "id_estudiante": 1492,
+    "id_psicosocial": 1012,
+    "id_alerta": 74,
+    "fecha": "2026-10-05",
+    "hora": "11:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 44,
+    "id_estudiante": 1516,
+    "id_psicosocial": 1012,
+    "id_alerta": 78,
+    "fecha": "2026-10-12",
+    "hora": "10:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 45,
+    "id_estudiante": 1519,
+    "id_psicosocial": 1012,
+    "id_alerta": 79,
+    "fecha": "2026-09-21",
+    "hora": "11:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 46,
+    "id_estudiante": 1543,
+    "id_psicosocial": 1012,
+    "id_alerta": 83,
+    "fecha": "2026-10-01",
+    "hora": "10:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 47,
+    "id_estudiante": 1546,
+    "id_psicosocial": 1012,
+    "id_alerta": 84,
+    "fecha": "2026-10-12",
+    "hora": "11:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 48,
+    "id_estudiante": 1562,
+    "id_psicosocial": 1012,
+    "id_alerta": 88,
+    "fecha": "2026-10-07",
+    "hora": "10:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 49,
+    "id_estudiante": 1570,
+    "id_psicosocial": 1012,
+    "id_alerta": 89,
+    "fecha": "2026-10-22",
+    "hora": "11:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 50,
+    "id_estudiante": 1573,
+    "id_psicosocial": 1012,
+    "id_alerta": 90,
+    "fecha": "2026-09-28",
+    "hora": "07:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "CANCELADA"
+  },
+  {
+    "id_cita": 51,
+    "id_estudiante": 1589,
+    "id_psicosocial": 1012,
+    "id_alerta": 93,
+    "fecha": "2026-09-22",
+    "hora": "10:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 52,
+    "id_estudiante": 1597,
+    "id_psicosocial": 1012,
+    "id_alerta": 94,
+    "fecha": "2026-10-07",
+    "hora": "11:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 53,
+    "id_estudiante": 1600,
+    "id_psicosocial": 1012,
+    "id_alerta": 95,
+    "fecha": "2026-10-22",
+    "hora": "07:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 54,
+    "id_estudiante": 1603,
+    "id_psicosocial": 1012,
+    "id_alerta": 96,
+    "fecha": "2026-09-28",
+    "hora": "08:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 55,
+    "id_estudiante": 1616,
+    "id_psicosocial": 1012,
+    "id_alerta": 99,
+    "fecha": "2026-10-13",
+    "hora": "11:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "CANCELADA"
+  },
+  {
+    "id_cita": 56,
+    "id_estudiante": 1624,
+    "id_psicosocial": 1012,
+    "id_alerta": 100,
+    "fecha": "2026-09-23",
+    "hora": "07:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 57,
+    "id_estudiante": 1627,
+    "id_psicosocial": 1012,
+    "id_alerta": 101,
+    "fecha": "2026-10-08",
+    "hora": "08:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 58,
+    "id_estudiante": 1630,
+    "id_psicosocial": 1012,
+    "id_alerta": 102,
+    "fecha": "2026-10-19",
+    "hora": "09:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 59,
+    "id_estudiante": 1643,
+    "id_psicosocial": 1012,
+    "id_alerta": 105,
+    "fecha": "2026-09-29",
+    "hora": "07:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 60,
+    "id_estudiante": 1651,
+    "id_psicosocial": 1012,
+    "id_alerta": 106,
+    "fecha": "2026-10-14",
+    "hora": "08:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 61,
+    "id_estudiante": 1654,
+    "id_psicosocial": 1012,
+    "id_alerta": 107,
+    "fecha": "2026-09-24",
+    "hora": "09:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 62,
+    "id_estudiante": 1657,
+    "id_psicosocial": 1012,
+    "id_alerta": 108,
+    "fecha": "2026-10-05",
+    "hora": "10:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "CANCELADA"
+  },
+  {
+    "id_cita": 63,
+    "id_estudiante": 1670,
+    "id_psicosocial": 1012,
+    "id_alerta": 111,
+    "fecha": "2026-10-20",
+    "hora": "08:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 64,
+    "id_estudiante": 1681,
+    "id_psicosocial": 1012,
+    "id_alerta": 112,
+    "fecha": "2026-10-14",
+    "hora": "09:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 65,
+    "id_estudiante": 1684,
+    "id_psicosocial": 1012,
+    "id_alerta": 113,
+    "fecha": "2026-09-24",
+    "hora": "10:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 66,
+    "id_estudiante": 1697,
+    "id_psicosocial": 1012,
+    "id_alerta": 116,
+    "fecha": "2026-10-05",
+    "hora": "08:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 67,
+    "id_estudiante": 1708,
+    "id_psicosocial": 1012,
+    "id_alerta": 117,
+    "fecha": "2026-09-29",
+    "hora": "09:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "CANCELADA"
+  },
+  {
+    "id_cita": 68,
+    "id_estudiante": 1711,
+    "id_psicosocial": 1012,
+    "id_alerta": 118,
+    "fecha": "2026-10-14",
+    "hora": "10:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 69,
+    "id_estudiante": 1724,
+    "id_psicosocial": 1012,
+    "id_alerta": 121,
+    "fecha": "2026-09-21",
+    "hora": "08:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 70,
+    "id_estudiante": 1735,
+    "id_psicosocial": 1012,
+    "id_alerta": 122,
+    "fecha": "2026-10-19",
+    "hora": "09:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 71,
+    "id_estudiante": 1738,
+    "id_psicosocial": 1012,
+    "id_alerta": 123,
+    "fecha": "2026-09-29",
+    "hora": "10:30",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 72,
+    "id_estudiante": 1751,
+    "id_psicosocial": 1012,
+    "id_alerta": 126,
+    "fecha": "2026-10-12",
+    "hora": "08:30",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "CANCELADA"
+  },
+  {
+    "id_cita": 73,
+    "id_estudiante": 2102,
+    "id_psicosocial": 2011,
+    "id_alerta": 127,
+    "fecha": "2026-10-05",
+    "hora": "15:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 74,
+    "id_estudiante": 2105,
+    "id_psicosocial": 2011,
+    "id_alerta": 128,
+    "fecha": "2026-10-19",
+    "hora": "16:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 75,
+    "id_estudiante": 2108,
+    "id_psicosocial": 2011,
+    "id_alerta": 129,
+    "fecha": "2026-09-29",
+    "hora": "17:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 76,
+    "id_estudiante": 2113,
+    "id_psicosocial": 2011,
+    "id_alerta": 130,
+    "fecha": "2026-09-30",
+    "hora": "13:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 77,
+    "id_estudiante": 2116,
+    "id_psicosocial": 2011,
+    "id_alerta": 131,
+    "fecha": "2026-10-15",
+    "hora": "14:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 78,
+    "id_estudiante": 2132,
+    "id_psicosocial": 2011,
+    "id_alerta": 133,
+    "fecha": "2026-10-05",
+    "hora": "16:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 79,
+    "id_estudiante": 2135,
+    "id_psicosocial": 2011,
+    "id_alerta": 134,
+    "fecha": "2026-10-19",
+    "hora": "17:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 80,
+    "id_estudiante": 2140,
+    "id_psicosocial": 2011,
+    "id_alerta": 135,
+    "fecha": "2026-10-20",
+    "hora": "13:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 81,
+    "id_estudiante": 2143,
+    "id_psicosocial": 2011,
+    "id_alerta": 136,
+    "fecha": "2026-09-30",
+    "hora": "14:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 82,
+    "id_estudiante": 2159,
+    "id_psicosocial": 2011,
+    "id_alerta": 138,
+    "fecha": "2026-09-21",
+    "hora": "16:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 83,
+    "id_estudiante": 2162,
+    "id_psicosocial": 2011,
+    "id_alerta": 139,
+    "fecha": "2026-10-05",
+    "hora": "17:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 84,
+    "id_estudiante": 2167,
+    "id_psicosocial": 2011,
+    "id_alerta": 140,
+    "fecha": "2026-10-05",
+    "hora": "13:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 85,
+    "id_estudiante": 2170,
+    "id_psicosocial": 2011,
+    "id_alerta": 141,
+    "fecha": "2026-10-20",
+    "hora": "14:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 86,
+    "id_estudiante": 2186,
+    "id_psicosocial": 2011,
+    "id_alerta": 143,
+    "fecha": "2026-10-15",
+    "hora": "16:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 87,
+    "id_estudiante": 2189,
+    "id_psicosocial": 2011,
+    "id_alerta": 144,
+    "fecha": "2026-09-21",
+    "hora": "17:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "CANCELADA"
+  },
+  {
+    "id_cita": 88,
+    "id_estudiante": 2194,
+    "id_psicosocial": 2011,
+    "id_alerta": 145,
+    "fecha": "2026-09-21",
+    "hora": "13:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 89,
+    "id_estudiante": 2197,
+    "id_psicosocial": 2011,
+    "id_alerta": 146,
+    "fecha": "2026-10-05",
+    "hora": "14:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 90,
+    "id_estudiante": 2213,
+    "id_psicosocial": 2011,
+    "id_alerta": 148,
+    "fecha": "2026-09-30",
+    "hora": "16:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 91,
+    "id_estudiante": 2216,
+    "id_psicosocial": 2011,
+    "id_alerta": 149,
+    "fecha": "2026-10-15",
+    "hora": "17:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 92,
+    "id_estudiante": 2221,
+    "id_psicosocial": 2011,
+    "id_alerta": 150,
+    "fecha": "2026-10-12",
+    "hora": "13:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 93,
+    "id_estudiante": 2224,
+    "id_psicosocial": 2011,
+    "id_alerta": 151,
+    "fecha": "2026-09-21",
+    "hora": "14:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 94,
+    "id_estudiante": 2240,
+    "id_psicosocial": 2011,
+    "id_alerta": 152,
+    "fecha": "2026-10-19",
+    "hora": "15:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 95,
+    "id_estudiante": 2243,
+    "id_psicosocial": 2011,
+    "id_alerta": 153,
+    "fecha": "2026-09-29",
+    "hora": "16:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "CANCELADA"
+  },
+  {
+    "id_cita": 96,
+    "id_estudiante": 2248,
+    "id_psicosocial": 2011,
+    "id_alerta": 154,
+    "fecha": "2026-09-30",
+    "hora": "17:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 97,
+    "id_estudiante": 2251,
+    "id_psicosocial": 2011,
+    "id_alerta": 155,
+    "fecha": "2026-10-15",
+    "hora": "13:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 98,
+    "id_estudiante": 2254,
+    "id_psicosocial": 2011,
+    "id_alerta": 156,
+    "fecha": "2026-09-21",
+    "hora": "14:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 99,
+    "id_estudiante": 2267,
+    "id_psicosocial": 2011,
+    "id_alerta": 157,
+    "fecha": "2026-10-05",
+    "hora": "15:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 100,
+    "id_estudiante": 2270,
+    "id_psicosocial": 2011,
+    "id_alerta": 158,
+    "fecha": "2026-10-19",
+    "hora": "16:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 101,
+    "id_estudiante": 2275,
+    "id_psicosocial": 2011,
+    "id_alerta": 159,
+    "fecha": "2026-10-20",
+    "hora": "17:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 102,
+    "id_estudiante": 2278,
+    "id_psicosocial": 2011,
+    "id_alerta": 160,
+    "fecha": "2026-09-30",
+    "hora": "13:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 103,
+    "id_estudiante": 2281,
+    "id_psicosocial": 2011,
+    "id_alerta": 161,
+    "fecha": "2026-10-15",
+    "hora": "14:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 104,
+    "id_estudiante": 2294,
+    "id_psicosocial": 2011,
+    "id_alerta": 162,
+    "fecha": "2026-09-21",
+    "hora": "15:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "CANCELADA"
+  },
+  {
+    "id_cita": 105,
+    "id_estudiante": 2297,
+    "id_psicosocial": 2011,
+    "id_alerta": 163,
+    "fecha": "2026-10-05",
+    "hora": "16:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 106,
+    "id_estudiante": 2302,
+    "id_psicosocial": 2011,
+    "id_alerta": 164,
+    "fecha": "2026-10-05",
+    "hora": "17:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 107,
+    "id_estudiante": 2305,
+    "id_psicosocial": 2011,
+    "id_alerta": 165,
+    "fecha": "2026-10-20",
+    "hora": "13:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 108,
+    "id_estudiante": 2308,
+    "id_psicosocial": 2011,
+    "id_alerta": 166,
+    "fecha": "2026-09-30",
+    "hora": "14:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 109,
+    "id_estudiante": 2321,
+    "id_psicosocial": 2011,
+    "id_alerta": 168,
+    "fecha": "2026-10-12",
+    "hora": "16:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 110,
+    "id_estudiante": 2324,
+    "id_psicosocial": 2011,
+    "id_alerta": 169,
+    "fecha": "2026-09-21",
+    "hora": "17:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 111,
+    "id_estudiante": 2332,
+    "id_psicosocial": 2011,
+    "id_alerta": 170,
+    "fecha": "2026-10-05",
+    "hora": "13:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 112,
+    "id_estudiante": 2335,
+    "id_psicosocial": 2011,
+    "id_alerta": 171,
+    "fecha": "2026-10-20",
+    "hora": "14:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 113,
+    "id_estudiante": 2348,
+    "id_psicosocial": 2011,
+    "id_alerta": 173,
+    "fecha": "2026-10-01",
+    "hora": "16:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 114,
+    "id_estudiante": 2351,
+    "id_psicosocial": 2011,
+    "id_alerta": 174,
+    "fecha": "2026-10-12",
+    "hora": "17:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 115,
+    "id_estudiante": 2354,
+    "id_psicosocial": 2011,
+    "id_alerta": 175,
+    "fecha": "2026-09-21",
+    "hora": "13:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 116,
+    "id_estudiante": 2359,
+    "id_psicosocial": 2011,
+    "id_alerta": 176,
+    "fecha": "2026-09-21",
+    "hora": "14:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 117,
+    "id_estudiante": 2362,
+    "id_psicosocial": 2011,
+    "id_alerta": 177,
+    "fecha": "2026-10-06",
+    "hora": "15:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 118,
+    "id_estudiante": 2375,
+    "id_psicosocial": 2011,
+    "id_alerta": 179,
+    "fecha": "2026-10-22",
+    "hora": "17:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 119,
+    "id_estudiante": 2378,
+    "id_psicosocial": 2011,
+    "id_alerta": 180,
+    "fecha": "2026-09-28",
+    "hora": "13:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "CANCELADA"
+  },
+  {
+    "id_cita": 120,
+    "id_estudiante": 2381,
+    "id_psicosocial": 2011,
+    "id_alerta": 181,
+    "fecha": "2026-10-12",
+    "hora": "14:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 121,
+    "id_estudiante": 2386,
+    "id_psicosocial": 2011,
+    "id_alerta": 182,
+    "fecha": "2026-10-12",
+    "hora": "15:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 122,
+    "id_estudiante": 2389,
+    "id_psicosocial": 2011,
+    "id_alerta": 183,
+    "fecha": "2026-09-22",
+    "hora": "16:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 123,
+    "id_estudiante": 2402,
+    "id_psicosocial": 2011,
+    "id_alerta": 185,
+    "fecha": "2026-10-08",
+    "hora": "13:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 124,
+    "id_estudiante": 2405,
+    "id_psicosocial": 2011,
+    "id_alerta": 186,
+    "fecha": "2026-10-19",
+    "hora": "14:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 125,
+    "id_estudiante": 2408,
+    "id_psicosocial": 2011,
+    "id_alerta": 187,
+    "fecha": "2026-09-28",
+    "hora": "15:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 126,
+    "id_estudiante": 2413,
+    "id_psicosocial": 2011,
+    "id_alerta": 188,
+    "fecha": "2026-09-28",
+    "hora": "16:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 127,
+    "id_estudiante": 2416,
+    "id_psicosocial": 2011,
+    "id_alerta": 189,
+    "fecha": "2026-10-13",
+    "hora": "17:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "CANCELADA"
+  },
+  {
+    "id_cita": 128,
+    "id_estudiante": 2432,
+    "id_psicosocial": 2011,
+    "id_alerta": 191,
+    "fecha": "2026-10-08",
+    "hora": "14:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 129,
+    "id_estudiante": 2435,
+    "id_psicosocial": 2011,
+    "id_alerta": 192,
+    "fecha": "2026-10-19",
+    "hora": "15:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 130,
+    "id_estudiante": 2440,
+    "id_psicosocial": 2011,
+    "id_alerta": 193,
+    "fecha": "2026-10-19",
+    "hora": "16:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 131,
+    "id_estudiante": 2443,
+    "id_psicosocial": 2011,
+    "id_alerta": 194,
+    "fecha": "2026-09-28",
+    "hora": "17:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 132,
+    "id_estudiante": 2459,
+    "id_psicosocial": 2011,
+    "id_alerta": 196,
+    "fecha": "2026-09-23",
+    "hora": "14:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 133,
+    "id_estudiante": 2462,
+    "id_psicosocial": 2012,
+    "id_alerta": 197,
+    "fecha": "2026-10-08",
+    "hora": "15:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 134,
+    "id_estudiante": 2467,
+    "id_psicosocial": 2012,
+    "id_alerta": 198,
+    "fecha": "2026-10-05",
+    "hora": "16:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "CANCELADA"
+  },
+  {
+    "id_cita": 135,
+    "id_estudiante": 2470,
+    "id_psicosocial": 2012,
+    "id_alerta": 199,
+    "fecha": "2026-10-19",
+    "hora": "17:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 136,
+    "id_estudiante": 2486,
+    "id_psicosocial": 2012,
+    "id_alerta": 201,
+    "fecha": "2026-10-13",
+    "hora": "14:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 137,
+    "id_estudiante": 2489,
+    "id_psicosocial": 2012,
+    "id_alerta": 202,
+    "fecha": "2026-09-23",
+    "hora": "15:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 138,
+    "id_estudiante": 2494,
+    "id_psicosocial": 2012,
+    "id_alerta": 203,
+    "fecha": "2026-09-24",
+    "hora": "16:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 139,
+    "id_estudiante": 2497,
+    "id_psicosocial": 2012,
+    "id_alerta": 204,
+    "fecha": "2026-10-05",
+    "hora": "17:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 140,
+    "id_estudiante": 2513,
+    "id_psicosocial": 2012,
+    "id_alerta": 206,
+    "fecha": "2026-09-28",
+    "hora": "14:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 141,
+    "id_estudiante": 2516,
+    "id_psicosocial": 2012,
+    "id_alerta": 207,
+    "fecha": "2026-10-13",
+    "hora": "15:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "CANCELADA"
+  },
+  {
+    "id_cita": 142,
+    "id_estudiante": 2521,
+    "id_psicosocial": 2012,
+    "id_alerta": 208,
+    "fecha": "2026-10-14",
+    "hora": "16:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 143,
+    "id_estudiante": 2524,
+    "id_psicosocial": 2012,
+    "id_alerta": 209,
+    "fecha": "2026-09-24",
+    "hora": "17:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 144,
+    "id_estudiante": 2540,
+    "id_psicosocial": 2012,
+    "id_alerta": 210,
+    "fecha": "2026-10-19",
+    "hora": "13:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 145,
+    "id_estudiante": 2543,
+    "id_psicosocial": 2012,
+    "id_alerta": 211,
+    "fecha": "2026-09-28",
+    "hora": "14:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 146,
+    "id_estudiante": 2548,
+    "id_psicosocial": 2012,
+    "id_alerta": 212,
+    "fecha": "2026-09-28",
+    "hora": "15:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 147,
+    "id_estudiante": 2551,
+    "id_psicosocial": 2012,
+    "id_alerta": 213,
+    "fecha": "2026-10-13",
+    "hora": "16:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 148,
+    "id_estudiante": 2554,
+    "id_psicosocial": 2012,
+    "id_alerta": 214,
+    "fecha": "2026-09-23",
+    "hora": "17:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 149,
+    "id_estudiante": 2567,
+    "id_psicosocial": 2012,
+    "id_alerta": 215,
+    "fecha": "2026-10-08",
+    "hora": "13:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 150,
+    "id_estudiante": 2570,
+    "id_psicosocial": 2012,
+    "id_alerta": 216,
+    "fecha": "2026-10-19",
+    "hora": "14:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 151,
+    "id_estudiante": 2575,
+    "id_psicosocial": 2012,
+    "id_alerta": 217,
+    "fecha": "2026-10-19",
+    "hora": "15:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 152,
+    "id_estudiante": 2578,
+    "id_psicosocial": 2012,
+    "id_alerta": 218,
+    "fecha": "2026-09-28",
+    "hora": "16:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 153,
+    "id_estudiante": 2581,
+    "id_psicosocial": 2012,
+    "id_alerta": 219,
+    "fecha": "2026-10-13",
+    "hora": "17:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 154,
+    "id_estudiante": 2594,
+    "id_psicosocial": 2012,
+    "id_alerta": 220,
+    "fecha": "2026-09-23",
+    "hora": "13:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 155,
+    "id_estudiante": 2597,
+    "id_psicosocial": 2012,
+    "id_alerta": 221,
+    "fecha": "2026-10-08",
+    "hora": "14:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 156,
+    "id_estudiante": 2602,
+    "id_psicosocial": 2012,
+    "id_alerta": 222,
+    "fecha": "2026-10-05",
+    "hora": "15:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 157,
+    "id_estudiante": 2605,
+    "id_psicosocial": 2012,
+    "id_alerta": 223,
+    "fecha": "2026-10-19",
+    "hora": "16:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 158,
+    "id_estudiante": 2608,
+    "id_psicosocial": 2012,
+    "id_alerta": 224,
+    "fecha": "2026-09-28",
+    "hora": "17:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 159,
+    "id_estudiante": 2621,
+    "id_psicosocial": 2012,
+    "id_alerta": 226,
+    "fecha": "2026-10-14",
+    "hora": "14:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 160,
+    "id_estudiante": 2624,
+    "id_psicosocial": 2012,
+    "id_alerta": 227,
+    "fecha": "2026-09-24",
+    "hora": "15:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 161,
+    "id_estudiante": 2632,
+    "id_psicosocial": 2012,
+    "id_alerta": 228,
+    "fecha": "2026-10-05",
+    "hora": "16:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 162,
+    "id_estudiante": 2635,
+    "id_psicosocial": 2012,
+    "id_alerta": 229,
+    "fecha": "2026-10-19",
+    "hora": "17:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 163,
+    "id_estudiante": 2648,
+    "id_psicosocial": 2012,
+    "id_alerta": 231,
+    "fecha": "2026-09-29",
+    "hora": "14:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 164,
+    "id_estudiante": 2651,
+    "id_psicosocial": 2012,
+    "id_alerta": 232,
+    "fecha": "2026-10-14",
+    "hora": "15:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 165,
+    "id_estudiante": 2654,
+    "id_psicosocial": 2012,
+    "id_alerta": 233,
+    "fecha": "2026-09-24",
+    "hora": "16:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 166,
+    "id_estudiante": 2659,
+    "id_psicosocial": 2012,
+    "id_alerta": 234,
+    "fecha": "2026-09-21",
+    "hora": "17:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "CANCELADA"
+  },
+  {
+    "id_cita": 167,
+    "id_estudiante": 2662,
+    "id_psicosocial": 2012,
+    "id_alerta": 235,
+    "fecha": "2026-10-05",
+    "hora": "13:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 168,
+    "id_estudiante": 2675,
+    "id_psicosocial": 2012,
+    "id_alerta": 237,
+    "fecha": "2026-10-20",
+    "hora": "15:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 169,
+    "id_estudiante": 2678,
+    "id_psicosocial": 2012,
+    "id_alerta": 238,
+    "fecha": "2026-09-30",
+    "hora": "16:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 170,
+    "id_estudiante": 2681,
+    "id_psicosocial": 2012,
+    "id_alerta": 239,
+    "fecha": "2026-10-15",
+    "hora": "17:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 171,
+    "id_estudiante": 2686,
+    "id_psicosocial": 2012,
+    "id_alerta": 240,
+    "fecha": "2026-10-12",
+    "hora": "13:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 172,
+    "id_estudiante": 2689,
+    "id_psicosocial": 2012,
+    "id_alerta": 241,
+    "fecha": "2026-09-21",
+    "hora": "14:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 173,
+    "id_estudiante": 2702,
+    "id_psicosocial": 2012,
+    "id_alerta": 243,
+    "fecha": "2026-10-06",
+    "hora": "16:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "CANCELADA"
+  },
+  {
+    "id_cita": 174,
+    "id_estudiante": 2705,
+    "id_psicosocial": 2012,
+    "id_alerta": 244,
+    "fecha": "2026-10-21",
+    "hora": "17:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 175,
+    "id_estudiante": 2708,
+    "id_psicosocial": 2012,
+    "id_alerta": 245,
+    "fecha": "2026-10-01",
+    "hora": "13:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 176,
+    "id_estudiante": 2713,
+    "id_psicosocial": 2012,
+    "id_alerta": 246,
+    "fecha": "2026-09-28",
+    "hora": "14:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 177,
+    "id_estudiante": 2716,
+    "id_psicosocial": 2012,
+    "id_alerta": 247,
+    "fecha": "2026-10-12",
+    "hora": "15:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 178,
+    "id_estudiante": 2732,
+    "id_psicosocial": 2012,
+    "id_alerta": 249,
+    "fecha": "2026-10-06",
+    "hora": "17:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  },
+  {
+    "id_cita": 179,
+    "id_estudiante": 2735,
+    "id_psicosocial": 2012,
+    "id_alerta": 250,
+    "fecha": "2026-10-21",
+    "hora": "13:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 180,
+    "id_estudiante": 2740,
+    "id_psicosocial": 2012,
+    "id_alerta": 251,
+    "fecha": "2026-10-22",
+    "hora": "14:00",
+    "motivo": "Entrevista de acompañamiento por riesgo alto de deserción",
+    "estado": "AGENDADA"
+  },
+  {
+    "id_cita": 181,
+    "id_estudiante": 2743,
+    "id_psicosocial": 2012,
+    "id_alerta": 252,
+    "fecha": "2026-09-28",
+    "hora": "15:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "CANCELADA"
+  },
+  {
+    "id_cita": 182,
+    "id_estudiante": 2759,
+    "id_psicosocial": 2012,
+    "id_alerta": 254,
+    "fecha": "2026-09-21",
+    "hora": "17:00",
+    "motivo": "Seguimiento psicosocial por riesgo medio de deserción",
+    "estado": "REALIZADA"
+  }
+]

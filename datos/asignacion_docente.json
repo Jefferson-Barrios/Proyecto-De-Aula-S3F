@@ -1,0 +1,3522 @@
+[
+  {
+    "id_asignacion": 1001,
+    "id_docente": 1021,
+    "id_curso": 101,
+    "id_materia": 101,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1002,
+    "id_docente": 1024,
+    "id_curso": 101,
+    "id_materia": 102,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1003,
+    "id_docente": 1027,
+    "id_curso": 101,
+    "id_materia": 103,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1004,
+    "id_docente": 1030,
+    "id_curso": 101,
+    "id_materia": 104,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1005,
+    "id_docente": 1032,
+    "id_curso": 101,
+    "id_materia": 105,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1016,
+    "id_docente": 1021,
+    "id_curso": 102,
+    "id_materia": 101,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1017,
+    "id_docente": 1024,
+    "id_curso": 102,
+    "id_materia": 102,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1018,
+    "id_docente": 1027,
+    "id_curso": 102,
+    "id_materia": 103,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1019,
+    "id_docente": 1030,
+    "id_curso": 102,
+    "id_materia": 104,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1020,
+    "id_docente": 1032,
+    "id_curso": 102,
+    "id_materia": 105,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1031,
+    "id_docente": 1021,
+    "id_curso": 201,
+    "id_materia": 101,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1032,
+    "id_docente": 1024,
+    "id_curso": 201,
+    "id_materia": 102,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1033,
+    "id_docente": 1027,
+    "id_curso": 201,
+    "id_materia": 103,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1034,
+    "id_docente": 1030,
+    "id_curso": 201,
+    "id_materia": 104,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1035,
+    "id_docente": 1032,
+    "id_curso": 201,
+    "id_materia": 105,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1036,
+    "id_docente": 1034,
+    "id_curso": 201,
+    "id_materia": 106,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1046,
+    "id_docente": 1021,
+    "id_curso": 202,
+    "id_materia": 101,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1047,
+    "id_docente": 1024,
+    "id_curso": 202,
+    "id_materia": 102,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1048,
+    "id_docente": 1027,
+    "id_curso": 202,
+    "id_materia": 103,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1049,
+    "id_docente": 1030,
+    "id_curso": 202,
+    "id_materia": 104,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1050,
+    "id_docente": 1032,
+    "id_curso": 202,
+    "id_materia": 105,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1051,
+    "id_docente": 1034,
+    "id_curso": 202,
+    "id_materia": 106,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1061,
+    "id_docente": 1021,
+    "id_curso": 301,
+    "id_materia": 101,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1062,
+    "id_docente": 1024,
+    "id_curso": 301,
+    "id_materia": 102,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1063,
+    "id_docente": 1027,
+    "id_curso": 301,
+    "id_materia": 103,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1064,
+    "id_docente": 1030,
+    "id_curso": 301,
+    "id_materia": 104,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1065,
+    "id_docente": 1032,
+    "id_curso": 301,
+    "id_materia": 105,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1066,
+    "id_docente": 1034,
+    "id_curso": 301,
+    "id_materia": 106,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1067,
+    "id_docente": 1037,
+    "id_curso": 301,
+    "id_materia": 107,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1076,
+    "id_docente": 1021,
+    "id_curso": 302,
+    "id_materia": 101,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1077,
+    "id_docente": 1024,
+    "id_curso": 302,
+    "id_materia": 102,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1078,
+    "id_docente": 1027,
+    "id_curso": 302,
+    "id_materia": 103,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1079,
+    "id_docente": 1030,
+    "id_curso": 302,
+    "id_materia": 104,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1080,
+    "id_docente": 1032,
+    "id_curso": 302,
+    "id_materia": 105,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1081,
+    "id_docente": 1034,
+    "id_curso": 302,
+    "id_materia": 106,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1082,
+    "id_docente": 1037,
+    "id_curso": 302,
+    "id_materia": 107,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1091,
+    "id_docente": 1021,
+    "id_curso": 401,
+    "id_materia": 101,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1092,
+    "id_docente": 1024,
+    "id_curso": 401,
+    "id_materia": 102,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1093,
+    "id_docente": 1027,
+    "id_curso": 401,
+    "id_materia": 103,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1094,
+    "id_docente": 1030,
+    "id_curso": 401,
+    "id_materia": 104,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1095,
+    "id_docente": 1032,
+    "id_curso": 401,
+    "id_materia": 105,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1096,
+    "id_docente": 1034,
+    "id_curso": 401,
+    "id_materia": 106,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1097,
+    "id_docente": 1037,
+    "id_curso": 401,
+    "id_materia": 107,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1098,
+    "id_docente": 1038,
+    "id_curso": 401,
+    "id_materia": 108,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1106,
+    "id_docente": 1021,
+    "id_curso": 402,
+    "id_materia": 101,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1107,
+    "id_docente": 1024,
+    "id_curso": 402,
+    "id_materia": 102,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1108,
+    "id_docente": 1027,
+    "id_curso": 402,
+    "id_materia": 103,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1109,
+    "id_docente": 1030,
+    "id_curso": 402,
+    "id_materia": 104,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1110,
+    "id_docente": 1032,
+    "id_curso": 402,
+    "id_materia": 105,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1111,
+    "id_docente": 1034,
+    "id_curso": 402,
+    "id_materia": 106,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1112,
+    "id_docente": 1037,
+    "id_curso": 402,
+    "id_materia": 107,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1113,
+    "id_docente": 1038,
+    "id_curso": 402,
+    "id_materia": 108,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1121,
+    "id_docente": 1022,
+    "id_curso": 501,
+    "id_materia": 101,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1122,
+    "id_docente": 1025,
+    "id_curso": 501,
+    "id_materia": 102,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1123,
+    "id_docente": 1028,
+    "id_curso": 501,
+    "id_materia": 103,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1124,
+    "id_docente": 1030,
+    "id_curso": 501,
+    "id_materia": 104,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1125,
+    "id_docente": 1032,
+    "id_curso": 501,
+    "id_materia": 105,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1126,
+    "id_docente": 1034,
+    "id_curso": 501,
+    "id_materia": 106,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1127,
+    "id_docente": 1037,
+    "id_curso": 501,
+    "id_materia": 107,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1128,
+    "id_docente": 1038,
+    "id_curso": 501,
+    "id_materia": 108,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1129,
+    "id_docente": 1039,
+    "id_curso": 501,
+    "id_materia": 109,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1136,
+    "id_docente": 1022,
+    "id_curso": 502,
+    "id_materia": 101,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1137,
+    "id_docente": 1025,
+    "id_curso": 502,
+    "id_materia": 102,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1138,
+    "id_docente": 1028,
+    "id_curso": 502,
+    "id_materia": 103,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1139,
+    "id_docente": 1030,
+    "id_curso": 502,
+    "id_materia": 104,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1140,
+    "id_docente": 1032,
+    "id_curso": 502,
+    "id_materia": 105,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1141,
+    "id_docente": 1035,
+    "id_curso": 502,
+    "id_materia": 106,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1142,
+    "id_docente": 1037,
+    "id_curso": 502,
+    "id_materia": 107,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1143,
+    "id_docente": 1038,
+    "id_curso": 502,
+    "id_materia": 108,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1144,
+    "id_docente": 1039,
+    "id_curso": 502,
+    "id_materia": 109,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1151,
+    "id_docente": 1022,
+    "id_curso": 601,
+    "id_materia": 101,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1152,
+    "id_docente": 1025,
+    "id_curso": 601,
+    "id_materia": 102,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1153,
+    "id_docente": 1028,
+    "id_curso": 601,
+    "id_materia": 103,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1154,
+    "id_docente": 1030,
+    "id_curso": 601,
+    "id_materia": 104,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1155,
+    "id_docente": 1032,
+    "id_curso": 601,
+    "id_materia": 105,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1156,
+    "id_docente": 1035,
+    "id_curso": 601,
+    "id_materia": 106,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1157,
+    "id_docente": 1037,
+    "id_curso": 601,
+    "id_materia": 107,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1158,
+    "id_docente": 1038,
+    "id_curso": 601,
+    "id_materia": 108,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1159,
+    "id_docente": 1039,
+    "id_curso": 601,
+    "id_materia": 109,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1160,
+    "id_docente": 1040,
+    "id_curso": 601,
+    "id_materia": 110,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1166,
+    "id_docente": 1022,
+    "id_curso": 602,
+    "id_materia": 101,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1167,
+    "id_docente": 1025,
+    "id_curso": 602,
+    "id_materia": 102,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1168,
+    "id_docente": 1028,
+    "id_curso": 602,
+    "id_materia": 103,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1169,
+    "id_docente": 1031,
+    "id_curso": 602,
+    "id_materia": 104,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1170,
+    "id_docente": 1033,
+    "id_curso": 602,
+    "id_materia": 105,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1171,
+    "id_docente": 1035,
+    "id_curso": 602,
+    "id_materia": 106,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1172,
+    "id_docente": 1037,
+    "id_curso": 602,
+    "id_materia": 107,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1173,
+    "id_docente": 1038,
+    "id_curso": 602,
+    "id_materia": 108,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1174,
+    "id_docente": 1039,
+    "id_curso": 602,
+    "id_materia": 109,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1175,
+    "id_docente": 1040,
+    "id_curso": 602,
+    "id_materia": 110,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1181,
+    "id_docente": 1022,
+    "id_curso": 701,
+    "id_materia": 101,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1182,
+    "id_docente": 1025,
+    "id_curso": 701,
+    "id_materia": 102,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1183,
+    "id_docente": 1028,
+    "id_curso": 701,
+    "id_materia": 103,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1184,
+    "id_docente": 1031,
+    "id_curso": 701,
+    "id_materia": 104,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1185,
+    "id_docente": 1033,
+    "id_curso": 701,
+    "id_materia": 105,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1186,
+    "id_docente": 1035,
+    "id_curso": 701,
+    "id_materia": 106,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1187,
+    "id_docente": 1037,
+    "id_curso": 701,
+    "id_materia": 107,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1188,
+    "id_docente": 1038,
+    "id_curso": 701,
+    "id_materia": 108,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1189,
+    "id_docente": 1039,
+    "id_curso": 701,
+    "id_materia": 109,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1190,
+    "id_docente": 1040,
+    "id_curso": 701,
+    "id_materia": 110,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1191,
+    "id_docente": 1042,
+    "id_curso": 701,
+    "id_materia": 111,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1196,
+    "id_docente": 1022,
+    "id_curso": 702,
+    "id_materia": 101,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1197,
+    "id_docente": 1025,
+    "id_curso": 702,
+    "id_materia": 102,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1198,
+    "id_docente": 1028,
+    "id_curso": 702,
+    "id_materia": 103,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1199,
+    "id_docente": 1031,
+    "id_curso": 702,
+    "id_materia": 104,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1200,
+    "id_docente": 1033,
+    "id_curso": 702,
+    "id_materia": 105,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1201,
+    "id_docente": 1035,
+    "id_curso": 702,
+    "id_materia": 106,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1202,
+    "id_docente": 1037,
+    "id_curso": 702,
+    "id_materia": 107,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1203,
+    "id_docente": 1038,
+    "id_curso": 702,
+    "id_materia": 108,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1204,
+    "id_docente": 1039,
+    "id_curso": 702,
+    "id_materia": 109,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1205,
+    "id_docente": 1040,
+    "id_curso": 702,
+    "id_materia": 110,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1206,
+    "id_docente": 1042,
+    "id_curso": 702,
+    "id_materia": 111,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1211,
+    "id_docente": 1022,
+    "id_curso": 801,
+    "id_materia": 101,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1212,
+    "id_docente": 1025,
+    "id_curso": 801,
+    "id_materia": 102,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1213,
+    "id_docente": 1028,
+    "id_curso": 801,
+    "id_materia": 103,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1214,
+    "id_docente": 1031,
+    "id_curso": 801,
+    "id_materia": 104,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1215,
+    "id_docente": 1033,
+    "id_curso": 801,
+    "id_materia": 105,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1216,
+    "id_docente": 1035,
+    "id_curso": 801,
+    "id_materia": 106,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1217,
+    "id_docente": 1037,
+    "id_curso": 801,
+    "id_materia": 107,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1218,
+    "id_docente": 1038,
+    "id_curso": 801,
+    "id_materia": 108,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1219,
+    "id_docente": 1039,
+    "id_curso": 801,
+    "id_materia": 109,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1220,
+    "id_docente": 1040,
+    "id_curso": 801,
+    "id_materia": 110,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1221,
+    "id_docente": 1042,
+    "id_curso": 801,
+    "id_materia": 111,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1222,
+    "id_docente": 1043,
+    "id_curso": 801,
+    "id_materia": 112,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1226,
+    "id_docente": 1022,
+    "id_curso": 802,
+    "id_materia": 101,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1227,
+    "id_docente": 1025,
+    "id_curso": 802,
+    "id_materia": 102,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1228,
+    "id_docente": 1028,
+    "id_curso": 802,
+    "id_materia": 103,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1229,
+    "id_docente": 1031,
+    "id_curso": 802,
+    "id_materia": 104,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1230,
+    "id_docente": 1033,
+    "id_curso": 802,
+    "id_materia": 105,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1231,
+    "id_docente": 1035,
+    "id_curso": 802,
+    "id_materia": 106,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1232,
+    "id_docente": 1037,
+    "id_curso": 802,
+    "id_materia": 107,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1233,
+    "id_docente": 1038,
+    "id_curso": 802,
+    "id_materia": 108,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1234,
+    "id_docente": 1039,
+    "id_curso": 802,
+    "id_materia": 109,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1235,
+    "id_docente": 1040,
+    "id_curso": 802,
+    "id_materia": 110,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1236,
+    "id_docente": 1042,
+    "id_curso": 802,
+    "id_materia": 111,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1237,
+    "id_docente": 1043,
+    "id_curso": 802,
+    "id_materia": 112,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1241,
+    "id_docente": 1023,
+    "id_curso": 901,
+    "id_materia": 101,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1242,
+    "id_docente": 1026,
+    "id_curso": 901,
+    "id_materia": 102,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1243,
+    "id_docente": 1029,
+    "id_curso": 901,
+    "id_materia": 103,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1244,
+    "id_docente": 1031,
+    "id_curso": 901,
+    "id_materia": 104,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1245,
+    "id_docente": 1033,
+    "id_curso": 901,
+    "id_materia": 105,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1246,
+    "id_docente": 1036,
+    "id_curso": 901,
+    "id_materia": 106,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1247,
+    "id_docente": 1037,
+    "id_curso": 901,
+    "id_materia": 107,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1248,
+    "id_docente": 1038,
+    "id_curso": 901,
+    "id_materia": 108,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1249,
+    "id_docente": 1039,
+    "id_curso": 901,
+    "id_materia": 109,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1250,
+    "id_docente": 1041,
+    "id_curso": 901,
+    "id_materia": 110,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1251,
+    "id_docente": 1042,
+    "id_curso": 901,
+    "id_materia": 111,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1252,
+    "id_docente": 1043,
+    "id_curso": 901,
+    "id_materia": 112,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1253,
+    "id_docente": 1044,
+    "id_curso": 901,
+    "id_materia": 113,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1256,
+    "id_docente": 1023,
+    "id_curso": 902,
+    "id_materia": 101,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1257,
+    "id_docente": 1026,
+    "id_curso": 902,
+    "id_materia": 102,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1258,
+    "id_docente": 1029,
+    "id_curso": 902,
+    "id_materia": 103,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1259,
+    "id_docente": 1031,
+    "id_curso": 902,
+    "id_materia": 104,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1260,
+    "id_docente": 1033,
+    "id_curso": 902,
+    "id_materia": 105,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1261,
+    "id_docente": 1036,
+    "id_curso": 902,
+    "id_materia": 106,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1262,
+    "id_docente": 1037,
+    "id_curso": 902,
+    "id_materia": 107,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1263,
+    "id_docente": 1038,
+    "id_curso": 902,
+    "id_materia": 108,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1264,
+    "id_docente": 1039,
+    "id_curso": 902,
+    "id_materia": 109,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1265,
+    "id_docente": 1041,
+    "id_curso": 902,
+    "id_materia": 110,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1266,
+    "id_docente": 1042,
+    "id_curso": 902,
+    "id_materia": 111,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1267,
+    "id_docente": 1043,
+    "id_curso": 902,
+    "id_materia": 112,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1268,
+    "id_docente": 1044,
+    "id_curso": 902,
+    "id_materia": 113,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1271,
+    "id_docente": 1023,
+    "id_curso": 1001,
+    "id_materia": 101,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1272,
+    "id_docente": 1026,
+    "id_curso": 1001,
+    "id_materia": 102,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1273,
+    "id_docente": 1029,
+    "id_curso": 1001,
+    "id_materia": 103,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1274,
+    "id_docente": 1031,
+    "id_curso": 1001,
+    "id_materia": 104,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1275,
+    "id_docente": 1033,
+    "id_curso": 1001,
+    "id_materia": 105,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1276,
+    "id_docente": 1036,
+    "id_curso": 1001,
+    "id_materia": 106,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1277,
+    "id_docente": 1037,
+    "id_curso": 1001,
+    "id_materia": 107,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1278,
+    "id_docente": 1038,
+    "id_curso": 1001,
+    "id_materia": 108,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1279,
+    "id_docente": 1039,
+    "id_curso": 1001,
+    "id_materia": 109,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1280,
+    "id_docente": 1041,
+    "id_curso": 1001,
+    "id_materia": 110,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1281,
+    "id_docente": 1042,
+    "id_curso": 1001,
+    "id_materia": 111,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1282,
+    "id_docente": 1043,
+    "id_curso": 1001,
+    "id_materia": 112,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1283,
+    "id_docente": 1044,
+    "id_curso": 1001,
+    "id_materia": 113,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1284,
+    "id_docente": 1046,
+    "id_curso": 1001,
+    "id_materia": 114,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1286,
+    "id_docente": 1023,
+    "id_curso": 1002,
+    "id_materia": 101,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1287,
+    "id_docente": 1026,
+    "id_curso": 1002,
+    "id_materia": 102,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1288,
+    "id_docente": 1029,
+    "id_curso": 1002,
+    "id_materia": 103,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1289,
+    "id_docente": 1031,
+    "id_curso": 1002,
+    "id_materia": 104,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1290,
+    "id_docente": 1033,
+    "id_curso": 1002,
+    "id_materia": 105,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1291,
+    "id_docente": 1036,
+    "id_curso": 1002,
+    "id_materia": 106,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1292,
+    "id_docente": 1037,
+    "id_curso": 1002,
+    "id_materia": 107,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1293,
+    "id_docente": 1038,
+    "id_curso": 1002,
+    "id_materia": 108,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1294,
+    "id_docente": 1039,
+    "id_curso": 1002,
+    "id_materia": 109,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1295,
+    "id_docente": 1041,
+    "id_curso": 1002,
+    "id_materia": 110,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1296,
+    "id_docente": 1042,
+    "id_curso": 1002,
+    "id_materia": 111,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1297,
+    "id_docente": 1043,
+    "id_curso": 1002,
+    "id_materia": 112,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1298,
+    "id_docente": 1045,
+    "id_curso": 1002,
+    "id_materia": 113,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1299,
+    "id_docente": 1046,
+    "id_curso": 1002,
+    "id_materia": 114,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1301,
+    "id_docente": 1023,
+    "id_curso": 1101,
+    "id_materia": 101,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1302,
+    "id_docente": 1026,
+    "id_curso": 1101,
+    "id_materia": 102,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1303,
+    "id_docente": 1029,
+    "id_curso": 1101,
+    "id_materia": 103,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1304,
+    "id_docente": 1031,
+    "id_curso": 1101,
+    "id_materia": 104,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1305,
+    "id_docente": 1033,
+    "id_curso": 1101,
+    "id_materia": 105,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1306,
+    "id_docente": 1036,
+    "id_curso": 1101,
+    "id_materia": 106,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1307,
+    "id_docente": 1037,
+    "id_curso": 1101,
+    "id_materia": 107,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1308,
+    "id_docente": 1038,
+    "id_curso": 1101,
+    "id_materia": 108,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1309,
+    "id_docente": 1039,
+    "id_curso": 1101,
+    "id_materia": 109,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1310,
+    "id_docente": 1041,
+    "id_curso": 1101,
+    "id_materia": 110,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1311,
+    "id_docente": 1042,
+    "id_curso": 1101,
+    "id_materia": 111,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1312,
+    "id_docente": 1043,
+    "id_curso": 1101,
+    "id_materia": 112,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1313,
+    "id_docente": 1045,
+    "id_curso": 1101,
+    "id_materia": 113,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1314,
+    "id_docente": 1047,
+    "id_curso": 1101,
+    "id_materia": 114,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1315,
+    "id_docente": 1048,
+    "id_curso": 1101,
+    "id_materia": 115,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1316,
+    "id_docente": 1023,
+    "id_curso": 1102,
+    "id_materia": 101,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1317,
+    "id_docente": 1026,
+    "id_curso": 1102,
+    "id_materia": 102,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1318,
+    "id_docente": 1029,
+    "id_curso": 1102,
+    "id_materia": 103,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1319,
+    "id_docente": 1031,
+    "id_curso": 1102,
+    "id_materia": 104,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1320,
+    "id_docente": 1033,
+    "id_curso": 1102,
+    "id_materia": 105,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1321,
+    "id_docente": 1036,
+    "id_curso": 1102,
+    "id_materia": 106,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1322,
+    "id_docente": 1037,
+    "id_curso": 1102,
+    "id_materia": 107,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1323,
+    "id_docente": 1038,
+    "id_curso": 1102,
+    "id_materia": 108,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1324,
+    "id_docente": 1039,
+    "id_curso": 1102,
+    "id_materia": 109,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1325,
+    "id_docente": 1041,
+    "id_curso": 1102,
+    "id_materia": 110,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1326,
+    "id_docente": 1042,
+    "id_curso": 1102,
+    "id_materia": 111,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1327,
+    "id_docente": 1043,
+    "id_curso": 1102,
+    "id_materia": 112,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1328,
+    "id_docente": 1045,
+    "id_curso": 1102,
+    "id_materia": 113,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1329,
+    "id_docente": 1047,
+    "id_curso": 1102,
+    "id_materia": 114,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 1330,
+    "id_docente": 1048,
+    "id_curso": 1102,
+    "id_materia": 115,
+    "jornada": "MAÑANA",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2001,
+    "id_docente": 2021,
+    "id_curso": 10101,
+    "id_materia": 201,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2002,
+    "id_docente": 2024,
+    "id_curso": 10101,
+    "id_materia": 202,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2003,
+    "id_docente": 2027,
+    "id_curso": 10101,
+    "id_materia": 203,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2004,
+    "id_docente": 2030,
+    "id_curso": 10101,
+    "id_materia": 204,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2005,
+    "id_docente": 2032,
+    "id_curso": 10101,
+    "id_materia": 205,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2016,
+    "id_docente": 2021,
+    "id_curso": 10102,
+    "id_materia": 201,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2017,
+    "id_docente": 2024,
+    "id_curso": 10102,
+    "id_materia": 202,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2018,
+    "id_docente": 2027,
+    "id_curso": 10102,
+    "id_materia": 203,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2019,
+    "id_docente": 2030,
+    "id_curso": 10102,
+    "id_materia": 204,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2020,
+    "id_docente": 2032,
+    "id_curso": 10102,
+    "id_materia": 205,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2031,
+    "id_docente": 2021,
+    "id_curso": 10201,
+    "id_materia": 201,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2032,
+    "id_docente": 2024,
+    "id_curso": 10201,
+    "id_materia": 202,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2033,
+    "id_docente": 2027,
+    "id_curso": 10201,
+    "id_materia": 203,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2034,
+    "id_docente": 2030,
+    "id_curso": 10201,
+    "id_materia": 204,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2035,
+    "id_docente": 2032,
+    "id_curso": 10201,
+    "id_materia": 205,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2036,
+    "id_docente": 2034,
+    "id_curso": 10201,
+    "id_materia": 206,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2046,
+    "id_docente": 2021,
+    "id_curso": 10202,
+    "id_materia": 201,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2047,
+    "id_docente": 2024,
+    "id_curso": 10202,
+    "id_materia": 202,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2048,
+    "id_docente": 2027,
+    "id_curso": 10202,
+    "id_materia": 203,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2049,
+    "id_docente": 2030,
+    "id_curso": 10202,
+    "id_materia": 204,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2050,
+    "id_docente": 2032,
+    "id_curso": 10202,
+    "id_materia": 205,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2051,
+    "id_docente": 2034,
+    "id_curso": 10202,
+    "id_materia": 206,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2061,
+    "id_docente": 2021,
+    "id_curso": 10301,
+    "id_materia": 201,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2062,
+    "id_docente": 2024,
+    "id_curso": 10301,
+    "id_materia": 202,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2063,
+    "id_docente": 2027,
+    "id_curso": 10301,
+    "id_materia": 203,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2064,
+    "id_docente": 2030,
+    "id_curso": 10301,
+    "id_materia": 204,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2065,
+    "id_docente": 2032,
+    "id_curso": 10301,
+    "id_materia": 205,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2066,
+    "id_docente": 2034,
+    "id_curso": 10301,
+    "id_materia": 206,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2067,
+    "id_docente": 2037,
+    "id_curso": 10301,
+    "id_materia": 207,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2076,
+    "id_docente": 2021,
+    "id_curso": 10302,
+    "id_materia": 201,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2077,
+    "id_docente": 2024,
+    "id_curso": 10302,
+    "id_materia": 202,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2078,
+    "id_docente": 2027,
+    "id_curso": 10302,
+    "id_materia": 203,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2079,
+    "id_docente": 2030,
+    "id_curso": 10302,
+    "id_materia": 204,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2080,
+    "id_docente": 2032,
+    "id_curso": 10302,
+    "id_materia": 205,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2081,
+    "id_docente": 2034,
+    "id_curso": 10302,
+    "id_materia": 206,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2082,
+    "id_docente": 2037,
+    "id_curso": 10302,
+    "id_materia": 207,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2091,
+    "id_docente": 2021,
+    "id_curso": 10401,
+    "id_materia": 201,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2092,
+    "id_docente": 2024,
+    "id_curso": 10401,
+    "id_materia": 202,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2093,
+    "id_docente": 2027,
+    "id_curso": 10401,
+    "id_materia": 203,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2094,
+    "id_docente": 2030,
+    "id_curso": 10401,
+    "id_materia": 204,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2095,
+    "id_docente": 2032,
+    "id_curso": 10401,
+    "id_materia": 205,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2096,
+    "id_docente": 2034,
+    "id_curso": 10401,
+    "id_materia": 206,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2097,
+    "id_docente": 2037,
+    "id_curso": 10401,
+    "id_materia": 207,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2098,
+    "id_docente": 2038,
+    "id_curso": 10401,
+    "id_materia": 208,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2106,
+    "id_docente": 2021,
+    "id_curso": 10402,
+    "id_materia": 201,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2107,
+    "id_docente": 2024,
+    "id_curso": 10402,
+    "id_materia": 202,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2108,
+    "id_docente": 2027,
+    "id_curso": 10402,
+    "id_materia": 203,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2109,
+    "id_docente": 2030,
+    "id_curso": 10402,
+    "id_materia": 204,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2110,
+    "id_docente": 2032,
+    "id_curso": 10402,
+    "id_materia": 205,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2111,
+    "id_docente": 2034,
+    "id_curso": 10402,
+    "id_materia": 206,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2112,
+    "id_docente": 2037,
+    "id_curso": 10402,
+    "id_materia": 207,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2113,
+    "id_docente": 2038,
+    "id_curso": 10402,
+    "id_materia": 208,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2121,
+    "id_docente": 2022,
+    "id_curso": 10501,
+    "id_materia": 201,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2122,
+    "id_docente": 2025,
+    "id_curso": 10501,
+    "id_materia": 202,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2123,
+    "id_docente": 2028,
+    "id_curso": 10501,
+    "id_materia": 203,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2124,
+    "id_docente": 2030,
+    "id_curso": 10501,
+    "id_materia": 204,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2125,
+    "id_docente": 2032,
+    "id_curso": 10501,
+    "id_materia": 205,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2126,
+    "id_docente": 2034,
+    "id_curso": 10501,
+    "id_materia": 206,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2127,
+    "id_docente": 2037,
+    "id_curso": 10501,
+    "id_materia": 207,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2128,
+    "id_docente": 2038,
+    "id_curso": 10501,
+    "id_materia": 208,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2129,
+    "id_docente": 2039,
+    "id_curso": 10501,
+    "id_materia": 209,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2136,
+    "id_docente": 2022,
+    "id_curso": 10502,
+    "id_materia": 201,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2137,
+    "id_docente": 2025,
+    "id_curso": 10502,
+    "id_materia": 202,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2138,
+    "id_docente": 2028,
+    "id_curso": 10502,
+    "id_materia": 203,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2139,
+    "id_docente": 2030,
+    "id_curso": 10502,
+    "id_materia": 204,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2140,
+    "id_docente": 2032,
+    "id_curso": 10502,
+    "id_materia": 205,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2141,
+    "id_docente": 2035,
+    "id_curso": 10502,
+    "id_materia": 206,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2142,
+    "id_docente": 2037,
+    "id_curso": 10502,
+    "id_materia": 207,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2143,
+    "id_docente": 2038,
+    "id_curso": 10502,
+    "id_materia": 208,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2144,
+    "id_docente": 2039,
+    "id_curso": 10502,
+    "id_materia": 209,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2151,
+    "id_docente": 2022,
+    "id_curso": 10601,
+    "id_materia": 201,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2152,
+    "id_docente": 2025,
+    "id_curso": 10601,
+    "id_materia": 202,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2153,
+    "id_docente": 2028,
+    "id_curso": 10601,
+    "id_materia": 203,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2154,
+    "id_docente": 2030,
+    "id_curso": 10601,
+    "id_materia": 204,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2155,
+    "id_docente": 2032,
+    "id_curso": 10601,
+    "id_materia": 205,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2156,
+    "id_docente": 2035,
+    "id_curso": 10601,
+    "id_materia": 206,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2157,
+    "id_docente": 2037,
+    "id_curso": 10601,
+    "id_materia": 207,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2158,
+    "id_docente": 2038,
+    "id_curso": 10601,
+    "id_materia": 208,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2159,
+    "id_docente": 2039,
+    "id_curso": 10601,
+    "id_materia": 209,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2160,
+    "id_docente": 2040,
+    "id_curso": 10601,
+    "id_materia": 210,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2166,
+    "id_docente": 2022,
+    "id_curso": 10602,
+    "id_materia": 201,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2167,
+    "id_docente": 2025,
+    "id_curso": 10602,
+    "id_materia": 202,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2168,
+    "id_docente": 2028,
+    "id_curso": 10602,
+    "id_materia": 203,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2169,
+    "id_docente": 2031,
+    "id_curso": 10602,
+    "id_materia": 204,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2170,
+    "id_docente": 2033,
+    "id_curso": 10602,
+    "id_materia": 205,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2171,
+    "id_docente": 2035,
+    "id_curso": 10602,
+    "id_materia": 206,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2172,
+    "id_docente": 2037,
+    "id_curso": 10602,
+    "id_materia": 207,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2173,
+    "id_docente": 2038,
+    "id_curso": 10602,
+    "id_materia": 208,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2174,
+    "id_docente": 2039,
+    "id_curso": 10602,
+    "id_materia": 209,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2175,
+    "id_docente": 2040,
+    "id_curso": 10602,
+    "id_materia": 210,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2181,
+    "id_docente": 2022,
+    "id_curso": 10701,
+    "id_materia": 201,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2182,
+    "id_docente": 2025,
+    "id_curso": 10701,
+    "id_materia": 202,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2183,
+    "id_docente": 2028,
+    "id_curso": 10701,
+    "id_materia": 203,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2184,
+    "id_docente": 2031,
+    "id_curso": 10701,
+    "id_materia": 204,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2185,
+    "id_docente": 2033,
+    "id_curso": 10701,
+    "id_materia": 205,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2186,
+    "id_docente": 2035,
+    "id_curso": 10701,
+    "id_materia": 206,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2187,
+    "id_docente": 2037,
+    "id_curso": 10701,
+    "id_materia": 207,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2188,
+    "id_docente": 2038,
+    "id_curso": 10701,
+    "id_materia": 208,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2189,
+    "id_docente": 2039,
+    "id_curso": 10701,
+    "id_materia": 209,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2190,
+    "id_docente": 2040,
+    "id_curso": 10701,
+    "id_materia": 210,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2191,
+    "id_docente": 2042,
+    "id_curso": 10701,
+    "id_materia": 211,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2196,
+    "id_docente": 2022,
+    "id_curso": 10702,
+    "id_materia": 201,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2197,
+    "id_docente": 2025,
+    "id_curso": 10702,
+    "id_materia": 202,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2198,
+    "id_docente": 2028,
+    "id_curso": 10702,
+    "id_materia": 203,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2199,
+    "id_docente": 2031,
+    "id_curso": 10702,
+    "id_materia": 204,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2200,
+    "id_docente": 2033,
+    "id_curso": 10702,
+    "id_materia": 205,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2201,
+    "id_docente": 2035,
+    "id_curso": 10702,
+    "id_materia": 206,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2202,
+    "id_docente": 2037,
+    "id_curso": 10702,
+    "id_materia": 207,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2203,
+    "id_docente": 2038,
+    "id_curso": 10702,
+    "id_materia": 208,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2204,
+    "id_docente": 2039,
+    "id_curso": 10702,
+    "id_materia": 209,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2205,
+    "id_docente": 2040,
+    "id_curso": 10702,
+    "id_materia": 210,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2206,
+    "id_docente": 2042,
+    "id_curso": 10702,
+    "id_materia": 211,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2211,
+    "id_docente": 2022,
+    "id_curso": 10801,
+    "id_materia": 201,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2212,
+    "id_docente": 2025,
+    "id_curso": 10801,
+    "id_materia": 202,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2213,
+    "id_docente": 2028,
+    "id_curso": 10801,
+    "id_materia": 203,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2214,
+    "id_docente": 2031,
+    "id_curso": 10801,
+    "id_materia": 204,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2215,
+    "id_docente": 2033,
+    "id_curso": 10801,
+    "id_materia": 205,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2216,
+    "id_docente": 2035,
+    "id_curso": 10801,
+    "id_materia": 206,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2217,
+    "id_docente": 2037,
+    "id_curso": 10801,
+    "id_materia": 207,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2218,
+    "id_docente": 2038,
+    "id_curso": 10801,
+    "id_materia": 208,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2219,
+    "id_docente": 2039,
+    "id_curso": 10801,
+    "id_materia": 209,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2220,
+    "id_docente": 2040,
+    "id_curso": 10801,
+    "id_materia": 210,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2221,
+    "id_docente": 2042,
+    "id_curso": 10801,
+    "id_materia": 211,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2222,
+    "id_docente": 2043,
+    "id_curso": 10801,
+    "id_materia": 212,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2226,
+    "id_docente": 2022,
+    "id_curso": 10802,
+    "id_materia": 201,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2227,
+    "id_docente": 2025,
+    "id_curso": 10802,
+    "id_materia": 202,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2228,
+    "id_docente": 2028,
+    "id_curso": 10802,
+    "id_materia": 203,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2229,
+    "id_docente": 2031,
+    "id_curso": 10802,
+    "id_materia": 204,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2230,
+    "id_docente": 2033,
+    "id_curso": 10802,
+    "id_materia": 205,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2231,
+    "id_docente": 2035,
+    "id_curso": 10802,
+    "id_materia": 206,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2232,
+    "id_docente": 2037,
+    "id_curso": 10802,
+    "id_materia": 207,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2233,
+    "id_docente": 2038,
+    "id_curso": 10802,
+    "id_materia": 208,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2234,
+    "id_docente": 2039,
+    "id_curso": 10802,
+    "id_materia": 209,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2235,
+    "id_docente": 2040,
+    "id_curso": 10802,
+    "id_materia": 210,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2236,
+    "id_docente": 2042,
+    "id_curso": 10802,
+    "id_materia": 211,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2237,
+    "id_docente": 2043,
+    "id_curso": 10802,
+    "id_materia": 212,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2241,
+    "id_docente": 2023,
+    "id_curso": 10901,
+    "id_materia": 201,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2242,
+    "id_docente": 2026,
+    "id_curso": 10901,
+    "id_materia": 202,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2243,
+    "id_docente": 2029,
+    "id_curso": 10901,
+    "id_materia": 203,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2244,
+    "id_docente": 2031,
+    "id_curso": 10901,
+    "id_materia": 204,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2245,
+    "id_docente": 2033,
+    "id_curso": 10901,
+    "id_materia": 205,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2246,
+    "id_docente": 2036,
+    "id_curso": 10901,
+    "id_materia": 206,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2247,
+    "id_docente": 2037,
+    "id_curso": 10901,
+    "id_materia": 207,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2248,
+    "id_docente": 2038,
+    "id_curso": 10901,
+    "id_materia": 208,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2249,
+    "id_docente": 2039,
+    "id_curso": 10901,
+    "id_materia": 209,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2250,
+    "id_docente": 2041,
+    "id_curso": 10901,
+    "id_materia": 210,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2251,
+    "id_docente": 2042,
+    "id_curso": 10901,
+    "id_materia": 211,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2252,
+    "id_docente": 2043,
+    "id_curso": 10901,
+    "id_materia": 212,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2253,
+    "id_docente": 2044,
+    "id_curso": 10901,
+    "id_materia": 213,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2256,
+    "id_docente": 2023,
+    "id_curso": 10902,
+    "id_materia": 201,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2257,
+    "id_docente": 2026,
+    "id_curso": 10902,
+    "id_materia": 202,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2258,
+    "id_docente": 2029,
+    "id_curso": 10902,
+    "id_materia": 203,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2259,
+    "id_docente": 2031,
+    "id_curso": 10902,
+    "id_materia": 204,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2260,
+    "id_docente": 2033,
+    "id_curso": 10902,
+    "id_materia": 205,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2261,
+    "id_docente": 2036,
+    "id_curso": 10902,
+    "id_materia": 206,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2262,
+    "id_docente": 2037,
+    "id_curso": 10902,
+    "id_materia": 207,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2263,
+    "id_docente": 2038,
+    "id_curso": 10902,
+    "id_materia": 208,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2264,
+    "id_docente": 2039,
+    "id_curso": 10902,
+    "id_materia": 209,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2265,
+    "id_docente": 2041,
+    "id_curso": 10902,
+    "id_materia": 210,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2266,
+    "id_docente": 2042,
+    "id_curso": 10902,
+    "id_materia": 211,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2267,
+    "id_docente": 2043,
+    "id_curso": 10902,
+    "id_materia": 212,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2268,
+    "id_docente": 2044,
+    "id_curso": 10902,
+    "id_materia": 213,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2271,
+    "id_docente": 2023,
+    "id_curso": 11001,
+    "id_materia": 201,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2272,
+    "id_docente": 2026,
+    "id_curso": 11001,
+    "id_materia": 202,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2273,
+    "id_docente": 2029,
+    "id_curso": 11001,
+    "id_materia": 203,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2274,
+    "id_docente": 2031,
+    "id_curso": 11001,
+    "id_materia": 204,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2275,
+    "id_docente": 2033,
+    "id_curso": 11001,
+    "id_materia": 205,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2276,
+    "id_docente": 2036,
+    "id_curso": 11001,
+    "id_materia": 206,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2277,
+    "id_docente": 2037,
+    "id_curso": 11001,
+    "id_materia": 207,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2278,
+    "id_docente": 2038,
+    "id_curso": 11001,
+    "id_materia": 208,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2279,
+    "id_docente": 2039,
+    "id_curso": 11001,
+    "id_materia": 209,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2280,
+    "id_docente": 2041,
+    "id_curso": 11001,
+    "id_materia": 210,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2281,
+    "id_docente": 2042,
+    "id_curso": 11001,
+    "id_materia": 211,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2282,
+    "id_docente": 2043,
+    "id_curso": 11001,
+    "id_materia": 212,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2283,
+    "id_docente": 2044,
+    "id_curso": 11001,
+    "id_materia": 213,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2284,
+    "id_docente": 2046,
+    "id_curso": 11001,
+    "id_materia": 214,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2286,
+    "id_docente": 2023,
+    "id_curso": 11002,
+    "id_materia": 201,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2287,
+    "id_docente": 2026,
+    "id_curso": 11002,
+    "id_materia": 202,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2288,
+    "id_docente": 2029,
+    "id_curso": 11002,
+    "id_materia": 203,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2289,
+    "id_docente": 2031,
+    "id_curso": 11002,
+    "id_materia": 204,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2290,
+    "id_docente": 2033,
+    "id_curso": 11002,
+    "id_materia": 205,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2291,
+    "id_docente": 2036,
+    "id_curso": 11002,
+    "id_materia": 206,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2292,
+    "id_docente": 2037,
+    "id_curso": 11002,
+    "id_materia": 207,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2293,
+    "id_docente": 2038,
+    "id_curso": 11002,
+    "id_materia": 208,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2294,
+    "id_docente": 2039,
+    "id_curso": 11002,
+    "id_materia": 209,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2295,
+    "id_docente": 2041,
+    "id_curso": 11002,
+    "id_materia": 210,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2296,
+    "id_docente": 2042,
+    "id_curso": 11002,
+    "id_materia": 211,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2297,
+    "id_docente": 2043,
+    "id_curso": 11002,
+    "id_materia": 212,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2298,
+    "id_docente": 2045,
+    "id_curso": 11002,
+    "id_materia": 213,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2299,
+    "id_docente": 2046,
+    "id_curso": 11002,
+    "id_materia": 214,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2301,
+    "id_docente": 2023,
+    "id_curso": 11101,
+    "id_materia": 201,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2302,
+    "id_docente": 2026,
+    "id_curso": 11101,
+    "id_materia": 202,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2303,
+    "id_docente": 2029,
+    "id_curso": 11101,
+    "id_materia": 203,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2304,
+    "id_docente": 2031,
+    "id_curso": 11101,
+    "id_materia": 204,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2305,
+    "id_docente": 2033,
+    "id_curso": 11101,
+    "id_materia": 205,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2306,
+    "id_docente": 2036,
+    "id_curso": 11101,
+    "id_materia": 206,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2307,
+    "id_docente": 2037,
+    "id_curso": 11101,
+    "id_materia": 207,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2308,
+    "id_docente": 2038,
+    "id_curso": 11101,
+    "id_materia": 208,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2309,
+    "id_docente": 2039,
+    "id_curso": 11101,
+    "id_materia": 209,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2310,
+    "id_docente": 2041,
+    "id_curso": 11101,
+    "id_materia": 210,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2311,
+    "id_docente": 2042,
+    "id_curso": 11101,
+    "id_materia": 211,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2312,
+    "id_docente": 2043,
+    "id_curso": 11101,
+    "id_materia": 212,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2313,
+    "id_docente": 2045,
+    "id_curso": 11101,
+    "id_materia": 213,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2314,
+    "id_docente": 2047,
+    "id_curso": 11101,
+    "id_materia": 214,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2315,
+    "id_docente": 2048,
+    "id_curso": 11101,
+    "id_materia": 215,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2316,
+    "id_docente": 2023,
+    "id_curso": 11102,
+    "id_materia": 201,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2317,
+    "id_docente": 2026,
+    "id_curso": 11102,
+    "id_materia": 202,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2318,
+    "id_docente": 2029,
+    "id_curso": 11102,
+    "id_materia": 203,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2319,
+    "id_docente": 2031,
+    "id_curso": 11102,
+    "id_materia": 204,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2320,
+    "id_docente": 2033,
+    "id_curso": 11102,
+    "id_materia": 205,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2321,
+    "id_docente": 2036,
+    "id_curso": 11102,
+    "id_materia": 206,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2322,
+    "id_docente": 2037,
+    "id_curso": 11102,
+    "id_materia": 207,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2323,
+    "id_docente": 2038,
+    "id_curso": 11102,
+    "id_materia": 208,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2324,
+    "id_docente": 2039,
+    "id_curso": 11102,
+    "id_materia": 209,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2325,
+    "id_docente": 2041,
+    "id_curso": 11102,
+    "id_materia": 210,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2326,
+    "id_docente": 2042,
+    "id_curso": 11102,
+    "id_materia": 211,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2327,
+    "id_docente": 2043,
+    "id_curso": 11102,
+    "id_materia": 212,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2328,
+    "id_docente": 2045,
+    "id_curso": 11102,
+    "id_materia": 213,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2329,
+    "id_docente": 2047,
+    "id_curso": 11102,
+    "id_materia": 214,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_asignacion": 2330,
+    "id_docente": 2048,
+    "id_curso": 11102,
+    "id_materia": 215,
+    "jornada": "TARDE",
+    "estado": "ACTIVO"
+  }
+]

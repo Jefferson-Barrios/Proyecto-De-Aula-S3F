@@ -11,7 +11,6 @@ import java.awt.geom.Path2D;
 import java.awt.geom.Rectangle2D;
 import java.awt.geom.RoundRectangle2D;
 
-/** Íconos dibujados con Java2D (no necesitan archivos de imagen). */
 public final class Iconos {
 
     private Iconos() {

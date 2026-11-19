@@ -1,0 +1,7330 @@
+[
+  {
+    "id_horario": 1,
+    "id_asignacion": 1330,
+    "dia": "Jueves",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 2,
+    "id_asignacion": 1329,
+    "dia": "Martes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 3,
+    "id_asignacion": 1328,
+    "dia": "Viernes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 4,
+    "id_asignacion": 1327,
+    "dia": "Jueves",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 5,
+    "id_asignacion": 1326,
+    "dia": "Miércoles",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 6,
+    "id_asignacion": 1325,
+    "dia": "Lunes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 7,
+    "id_asignacion": 1324,
+    "dia": "Viernes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 8,
+    "id_asignacion": 1323,
+    "dia": "Jueves",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 9,
+    "id_asignacion": 1322,
+    "dia": "Miércoles",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 10,
+    "id_asignacion": 1321,
+    "dia": "Viernes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 11,
+    "id_asignacion": 1320,
+    "dia": "Miércoles",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 12,
+    "id_asignacion": 1319,
+    "dia": "Lunes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 13,
+    "id_asignacion": 1318,
+    "dia": "Miércoles",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 14,
+    "id_asignacion": 1317,
+    "dia": "Viernes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 15,
+    "id_asignacion": 1316,
+    "dia": "Martes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 16,
+    "id_asignacion": 2330,
+    "dia": "Jueves",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 17,
+    "id_asignacion": 2329,
+    "dia": "Martes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 18,
+    "id_asignacion": 2328,
+    "dia": "Viernes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 19,
+    "id_asignacion": 2327,
+    "dia": "Jueves",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 20,
+    "id_asignacion": 2326,
+    "dia": "Miércoles",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 21,
+    "id_asignacion": 2325,
+    "dia": "Lunes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 22,
+    "id_asignacion": 2324,
+    "dia": "Viernes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 23,
+    "id_asignacion": 2323,
+    "dia": "Jueves",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 24,
+    "id_asignacion": 2322,
+    "dia": "Miércoles",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 25,
+    "id_asignacion": 2321,
+    "dia": "Viernes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 26,
+    "id_asignacion": 2320,
+    "dia": "Miércoles",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 27,
+    "id_asignacion": 2319,
+    "dia": "Lunes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 28,
+    "id_asignacion": 2318,
+    "dia": "Miércoles",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 29,
+    "id_asignacion": 2317,
+    "dia": "Viernes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 30,
+    "id_asignacion": 2316,
+    "dia": "Martes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 31,
+    "id_asignacion": 1315,
+    "dia": "Miércoles",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 32,
+    "id_asignacion": 1314,
+    "dia": "Lunes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 33,
+    "id_asignacion": 1313,
+    "dia": "Jueves",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 34,
+    "id_asignacion": 1312,
+    "dia": "Miércoles",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 35,
+    "id_asignacion": 1311,
+    "dia": "Martes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 36,
+    "id_asignacion": 1310,
+    "dia": "Viernes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 37,
+    "id_asignacion": 1309,
+    "dia": "Jueves",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 38,
+    "id_asignacion": 1308,
+    "dia": "Miércoles",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 39,
+    "id_asignacion": 1307,
+    "dia": "Martes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 40,
+    "id_asignacion": 1306,
+    "dia": "Jueves",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 41,
+    "id_asignacion": 1305,
+    "dia": "Martes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 42,
+    "id_asignacion": 1304,
+    "dia": "Viernes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 43,
+    "id_asignacion": 1303,
+    "dia": "Martes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 44,
+    "id_asignacion": 1302,
+    "dia": "Jueves",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 45,
+    "id_asignacion": 1301,
+    "dia": "Lunes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 46,
+    "id_asignacion": 2315,
+    "dia": "Miércoles",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 47,
+    "id_asignacion": 2314,
+    "dia": "Lunes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 48,
+    "id_asignacion": 2313,
+    "dia": "Jueves",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 49,
+    "id_asignacion": 2312,
+    "dia": "Miércoles",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 50,
+    "id_asignacion": 2311,
+    "dia": "Martes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 51,
+    "id_asignacion": 2310,
+    "dia": "Viernes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 52,
+    "id_asignacion": 2309,
+    "dia": "Jueves",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 53,
+    "id_asignacion": 2308,
+    "dia": "Miércoles",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 54,
+    "id_asignacion": 2307,
+    "dia": "Martes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 55,
+    "id_asignacion": 2306,
+    "dia": "Jueves",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 56,
+    "id_asignacion": 2305,
+    "dia": "Martes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 57,
+    "id_asignacion": 2304,
+    "dia": "Viernes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 58,
+    "id_asignacion": 2303,
+    "dia": "Martes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 59,
+    "id_asignacion": 2302,
+    "dia": "Jueves",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 60,
+    "id_asignacion": 2301,
+    "dia": "Lunes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 61,
+    "id_asignacion": 1299,
+    "dia": "Viernes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 62,
+    "id_asignacion": 1298,
+    "dia": "Miércoles",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 63,
+    "id_asignacion": 1297,
+    "dia": "Martes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 64,
+    "id_asignacion": 1296,
+    "dia": "Lunes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 65,
+    "id_asignacion": 1295,
+    "dia": "Jueves",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 66,
+    "id_asignacion": 1294,
+    "dia": "Miércoles",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 67,
+    "id_asignacion": 1293,
+    "dia": "Martes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 68,
+    "id_asignacion": 1292,
+    "dia": "Lunes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 69,
+    "id_asignacion": 1291,
+    "dia": "Miércoles",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 70,
+    "id_asignacion": 1290,
+    "dia": "Lunes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 71,
+    "id_asignacion": 1289,
+    "dia": "Jueves",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 72,
+    "id_asignacion": 1288,
+    "dia": "Lunes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 73,
+    "id_asignacion": 1287,
+    "dia": "Miércoles",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 74,
+    "id_asignacion": 1286,
+    "dia": "Viernes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 75,
+    "id_asignacion": 2299,
+    "dia": "Viernes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 76,
+    "id_asignacion": 2298,
+    "dia": "Miércoles",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 77,
+    "id_asignacion": 2297,
+    "dia": "Martes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 78,
+    "id_asignacion": 2296,
+    "dia": "Lunes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 79,
+    "id_asignacion": 2295,
+    "dia": "Jueves",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 80,
+    "id_asignacion": 2294,
+    "dia": "Miércoles",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 81,
+    "id_asignacion": 2293,
+    "dia": "Martes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 82,
+    "id_asignacion": 2292,
+    "dia": "Lunes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 83,
+    "id_asignacion": 2291,
+    "dia": "Miércoles",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 84,
+    "id_asignacion": 2290,
+    "dia": "Lunes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 85,
+    "id_asignacion": 2289,
+    "dia": "Jueves",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 86,
+    "id_asignacion": 2288,
+    "dia": "Lunes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 87,
+    "id_asignacion": 2287,
+    "dia": "Miércoles",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 88,
+    "id_asignacion": 2286,
+    "dia": "Viernes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 89,
+    "id_asignacion": 1284,
+    "dia": "Jueves",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 90,
+    "id_asignacion": 1283,
+    "dia": "Martes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 91,
+    "id_asignacion": 1282,
+    "dia": "Lunes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 92,
+    "id_asignacion": 1281,
+    "dia": "Viernes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 93,
+    "id_asignacion": 1280,
+    "dia": "Miércoles",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 94,
+    "id_asignacion": 1279,
+    "dia": "Martes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 95,
+    "id_asignacion": 1278,
+    "dia": "Lunes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 96,
+    "id_asignacion": 1277,
+    "dia": "Viernes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 97,
+    "id_asignacion": 1276,
+    "dia": "Martes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 98,
+    "id_asignacion": 1275,
+    "dia": "Viernes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 99,
+    "id_asignacion": 1274,
+    "dia": "Miércoles",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 100,
+    "id_asignacion": 1273,
+    "dia": "Viernes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 101,
+    "id_asignacion": 1272,
+    "dia": "Martes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 102,
+    "id_asignacion": 1271,
+    "dia": "Jueves",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 103,
+    "id_asignacion": 2284,
+    "dia": "Jueves",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 104,
+    "id_asignacion": 2283,
+    "dia": "Martes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 105,
+    "id_asignacion": 2282,
+    "dia": "Lunes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 106,
+    "id_asignacion": 2281,
+    "dia": "Viernes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 107,
+    "id_asignacion": 2280,
+    "dia": "Miércoles",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 108,
+    "id_asignacion": 2279,
+    "dia": "Martes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 109,
+    "id_asignacion": 2278,
+    "dia": "Lunes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 110,
+    "id_asignacion": 2277,
+    "dia": "Viernes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 111,
+    "id_asignacion": 2276,
+    "dia": "Martes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 112,
+    "id_asignacion": 2275,
+    "dia": "Viernes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 113,
+    "id_asignacion": 2274,
+    "dia": "Miércoles",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 114,
+    "id_asignacion": 2273,
+    "dia": "Viernes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 115,
+    "id_asignacion": 2272,
+    "dia": "Martes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 116,
+    "id_asignacion": 2271,
+    "dia": "Jueves",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 117,
+    "id_asignacion": 1268,
+    "dia": "Lunes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 118,
+    "id_asignacion": 1267,
+    "dia": "Viernes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 119,
+    "id_asignacion": 1266,
+    "dia": "Jueves",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 120,
+    "id_asignacion": 1265,
+    "dia": "Martes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 121,
+    "id_asignacion": 1264,
+    "dia": "Lunes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 122,
+    "id_asignacion": 1263,
+    "dia": "Viernes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 123,
+    "id_asignacion": 1262,
+    "dia": "Jueves",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 124,
+    "id_asignacion": 1261,
+    "dia": "Lunes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 125,
+    "id_asignacion": 1260,
+    "dia": "Jueves",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 126,
+    "id_asignacion": 1259,
+    "dia": "Martes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 127,
+    "id_asignacion": 1258,
+    "dia": "Jueves",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 128,
+    "id_asignacion": 1257,
+    "dia": "Lunes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 129,
+    "id_asignacion": 1256,
+    "dia": "Miércoles",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 130,
+    "id_asignacion": 2268,
+    "dia": "Lunes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 131,
+    "id_asignacion": 2267,
+    "dia": "Viernes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 132,
+    "id_asignacion": 2266,
+    "dia": "Jueves",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 133,
+    "id_asignacion": 2265,
+    "dia": "Martes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 134,
+    "id_asignacion": 2264,
+    "dia": "Lunes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 135,
+    "id_asignacion": 2263,
+    "dia": "Viernes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 136,
+    "id_asignacion": 2262,
+    "dia": "Jueves",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 137,
+    "id_asignacion": 2261,
+    "dia": "Lunes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 138,
+    "id_asignacion": 2260,
+    "dia": "Jueves",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 139,
+    "id_asignacion": 2259,
+    "dia": "Martes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 140,
+    "id_asignacion": 2258,
+    "dia": "Jueves",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 141,
+    "id_asignacion": 2257,
+    "dia": "Lunes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 142,
+    "id_asignacion": 2256,
+    "dia": "Miércoles",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 143,
+    "id_asignacion": 1253,
+    "dia": "Viernes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 144,
+    "id_asignacion": 1252,
+    "dia": "Jueves",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 145,
+    "id_asignacion": 1251,
+    "dia": "Miércoles",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 146,
+    "id_asignacion": 1250,
+    "dia": "Lunes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 147,
+    "id_asignacion": 1249,
+    "dia": "Viernes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 148,
+    "id_asignacion": 1248,
+    "dia": "Jueves",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 149,
+    "id_asignacion": 1247,
+    "dia": "Miércoles",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 150,
+    "id_asignacion": 1246,
+    "dia": "Viernes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 151,
+    "id_asignacion": 1245,
+    "dia": "Miércoles",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 152,
+    "id_asignacion": 1244,
+    "dia": "Lunes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 153,
+    "id_asignacion": 1243,
+    "dia": "Miércoles",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 154,
+    "id_asignacion": 1242,
+    "dia": "Viernes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 155,
+    "id_asignacion": 1241,
+    "dia": "Martes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 156,
+    "id_asignacion": 2253,
+    "dia": "Viernes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 157,
+    "id_asignacion": 2252,
+    "dia": "Jueves",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 158,
+    "id_asignacion": 2251,
+    "dia": "Miércoles",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 159,
+    "id_asignacion": 2250,
+    "dia": "Lunes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 160,
+    "id_asignacion": 2249,
+    "dia": "Viernes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 161,
+    "id_asignacion": 2248,
+    "dia": "Jueves",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 162,
+    "id_asignacion": 2247,
+    "dia": "Miércoles",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 163,
+    "id_asignacion": 2246,
+    "dia": "Viernes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 164,
+    "id_asignacion": 2245,
+    "dia": "Miércoles",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 165,
+    "id_asignacion": 2244,
+    "dia": "Lunes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 166,
+    "id_asignacion": 2243,
+    "dia": "Miércoles",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 167,
+    "id_asignacion": 2242,
+    "dia": "Viernes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 168,
+    "id_asignacion": 2241,
+    "dia": "Martes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 169,
+    "id_asignacion": 1237,
+    "dia": "Miércoles",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 170,
+    "id_asignacion": 1236,
+    "dia": "Martes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 171,
+    "id_asignacion": 1235,
+    "dia": "Viernes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 172,
+    "id_asignacion": 1234,
+    "dia": "Jueves",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 173,
+    "id_asignacion": 1233,
+    "dia": "Miércoles",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 174,
+    "id_asignacion": 1232,
+    "dia": "Martes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 175,
+    "id_asignacion": 1231,
+    "dia": "Jueves",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 176,
+    "id_asignacion": 1230,
+    "dia": "Martes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 177,
+    "id_asignacion": 1229,
+    "dia": "Viernes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 178,
+    "id_asignacion": 1228,
+    "dia": "Martes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 179,
+    "id_asignacion": 1227,
+    "dia": "Jueves",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 180,
+    "id_asignacion": 1226,
+    "dia": "Lunes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 181,
+    "id_asignacion": 2237,
+    "dia": "Miércoles",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 182,
+    "id_asignacion": 2236,
+    "dia": "Martes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 183,
+    "id_asignacion": 2235,
+    "dia": "Viernes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 184,
+    "id_asignacion": 2234,
+    "dia": "Jueves",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 185,
+    "id_asignacion": 2233,
+    "dia": "Miércoles",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 186,
+    "id_asignacion": 2232,
+    "dia": "Martes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 187,
+    "id_asignacion": 2231,
+    "dia": "Jueves",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 188,
+    "id_asignacion": 2230,
+    "dia": "Martes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 189,
+    "id_asignacion": 2229,
+    "dia": "Viernes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 190,
+    "id_asignacion": 2228,
+    "dia": "Martes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 191,
+    "id_asignacion": 2227,
+    "dia": "Jueves",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 192,
+    "id_asignacion": 2226,
+    "dia": "Lunes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 193,
+    "id_asignacion": 1222,
+    "dia": "Martes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 194,
+    "id_asignacion": 1221,
+    "dia": "Lunes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 195,
+    "id_asignacion": 1220,
+    "dia": "Jueves",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 196,
+    "id_asignacion": 1219,
+    "dia": "Miércoles",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 197,
+    "id_asignacion": 1218,
+    "dia": "Martes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 198,
+    "id_asignacion": 1217,
+    "dia": "Lunes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 199,
+    "id_asignacion": 1216,
+    "dia": "Miércoles",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 200,
+    "id_asignacion": 1215,
+    "dia": "Lunes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 201,
+    "id_asignacion": 1214,
+    "dia": "Jueves",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 202,
+    "id_asignacion": 1213,
+    "dia": "Lunes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 203,
+    "id_asignacion": 1212,
+    "dia": "Miércoles",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 204,
+    "id_asignacion": 1211,
+    "dia": "Viernes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 205,
+    "id_asignacion": 2222,
+    "dia": "Martes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 206,
+    "id_asignacion": 2221,
+    "dia": "Lunes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 207,
+    "id_asignacion": 2220,
+    "dia": "Jueves",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 208,
+    "id_asignacion": 2219,
+    "dia": "Miércoles",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 209,
+    "id_asignacion": 2218,
+    "dia": "Martes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 210,
+    "id_asignacion": 2217,
+    "dia": "Lunes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 211,
+    "id_asignacion": 2216,
+    "dia": "Miércoles",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 212,
+    "id_asignacion": 2215,
+    "dia": "Lunes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 213,
+    "id_asignacion": 2214,
+    "dia": "Jueves",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 214,
+    "id_asignacion": 2213,
+    "dia": "Lunes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 215,
+    "id_asignacion": 2212,
+    "dia": "Miércoles",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 216,
+    "id_asignacion": 2211,
+    "dia": "Viernes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 217,
+    "id_asignacion": 1206,
+    "dia": "Viernes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 218,
+    "id_asignacion": 1205,
+    "dia": "Miércoles",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 219,
+    "id_asignacion": 1204,
+    "dia": "Martes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 220,
+    "id_asignacion": 1203,
+    "dia": "Lunes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 221,
+    "id_asignacion": 1202,
+    "dia": "Viernes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 222,
+    "id_asignacion": 1201,
+    "dia": "Martes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 223,
+    "id_asignacion": 1200,
+    "dia": "Viernes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 224,
+    "id_asignacion": 1199,
+    "dia": "Miércoles",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 225,
+    "id_asignacion": 1198,
+    "dia": "Viernes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 226,
+    "id_asignacion": 1197,
+    "dia": "Martes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 227,
+    "id_asignacion": 1196,
+    "dia": "Jueves",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 228,
+    "id_asignacion": 2206,
+    "dia": "Viernes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 229,
+    "id_asignacion": 2205,
+    "dia": "Miércoles",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 230,
+    "id_asignacion": 2204,
+    "dia": "Martes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 231,
+    "id_asignacion": 2203,
+    "dia": "Lunes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 232,
+    "id_asignacion": 2202,
+    "dia": "Viernes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 233,
+    "id_asignacion": 2201,
+    "dia": "Martes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 234,
+    "id_asignacion": 2200,
+    "dia": "Viernes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 235,
+    "id_asignacion": 2199,
+    "dia": "Miércoles",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 236,
+    "id_asignacion": 2198,
+    "dia": "Viernes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 237,
+    "id_asignacion": 2197,
+    "dia": "Martes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 238,
+    "id_asignacion": 2196,
+    "dia": "Jueves",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 239,
+    "id_asignacion": 1191,
+    "dia": "Jueves",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 240,
+    "id_asignacion": 1190,
+    "dia": "Martes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 241,
+    "id_asignacion": 1189,
+    "dia": "Lunes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 242,
+    "id_asignacion": 1188,
+    "dia": "Viernes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 243,
+    "id_asignacion": 1187,
+    "dia": "Jueves",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 244,
+    "id_asignacion": 1186,
+    "dia": "Lunes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 245,
+    "id_asignacion": 1185,
+    "dia": "Jueves",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 246,
+    "id_asignacion": 1184,
+    "dia": "Martes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 247,
+    "id_asignacion": 1183,
+    "dia": "Jueves",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 248,
+    "id_asignacion": 1182,
+    "dia": "Lunes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 249,
+    "id_asignacion": 1181,
+    "dia": "Miércoles",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 250,
+    "id_asignacion": 2191,
+    "dia": "Jueves",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 251,
+    "id_asignacion": 2190,
+    "dia": "Martes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 252,
+    "id_asignacion": 2189,
+    "dia": "Lunes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 253,
+    "id_asignacion": 2188,
+    "dia": "Viernes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 254,
+    "id_asignacion": 2187,
+    "dia": "Jueves",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 255,
+    "id_asignacion": 2186,
+    "dia": "Lunes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 256,
+    "id_asignacion": 2185,
+    "dia": "Jueves",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 257,
+    "id_asignacion": 2184,
+    "dia": "Martes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 258,
+    "id_asignacion": 2183,
+    "dia": "Jueves",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 259,
+    "id_asignacion": 2182,
+    "dia": "Lunes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 260,
+    "id_asignacion": 2181,
+    "dia": "Miércoles",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 261,
+    "id_asignacion": 1175,
+    "dia": "Lunes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 262,
+    "id_asignacion": 1174,
+    "dia": "Viernes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 263,
+    "id_asignacion": 1173,
+    "dia": "Jueves",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 264,
+    "id_asignacion": 1172,
+    "dia": "Miércoles",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 265,
+    "id_asignacion": 1171,
+    "dia": "Viernes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 266,
+    "id_asignacion": 1170,
+    "dia": "Miércoles",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 267,
+    "id_asignacion": 1169,
+    "dia": "Lunes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 268,
+    "id_asignacion": 1168,
+    "dia": "Miércoles",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 269,
+    "id_asignacion": 1167,
+    "dia": "Viernes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 270,
+    "id_asignacion": 1166,
+    "dia": "Martes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 271,
+    "id_asignacion": 2175,
+    "dia": "Lunes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 272,
+    "id_asignacion": 2174,
+    "dia": "Viernes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 273,
+    "id_asignacion": 2173,
+    "dia": "Jueves",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 274,
+    "id_asignacion": 2172,
+    "dia": "Miércoles",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 275,
+    "id_asignacion": 2171,
+    "dia": "Viernes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 276,
+    "id_asignacion": 2170,
+    "dia": "Miércoles",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 277,
+    "id_asignacion": 2169,
+    "dia": "Lunes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 278,
+    "id_asignacion": 2168,
+    "dia": "Miércoles",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 279,
+    "id_asignacion": 2167,
+    "dia": "Viernes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 280,
+    "id_asignacion": 2166,
+    "dia": "Martes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 281,
+    "id_asignacion": 1160,
+    "dia": "Viernes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 282,
+    "id_asignacion": 1159,
+    "dia": "Jueves",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 283,
+    "id_asignacion": 1158,
+    "dia": "Miércoles",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 284,
+    "id_asignacion": 1157,
+    "dia": "Martes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 285,
+    "id_asignacion": 1156,
+    "dia": "Jueves",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 286,
+    "id_asignacion": 1155,
+    "dia": "Martes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 287,
+    "id_asignacion": 1154,
+    "dia": "Viernes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 288,
+    "id_asignacion": 1153,
+    "dia": "Martes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 289,
+    "id_asignacion": 1152,
+    "dia": "Jueves",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 290,
+    "id_asignacion": 1151,
+    "dia": "Lunes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 291,
+    "id_asignacion": 2160,
+    "dia": "Viernes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 292,
+    "id_asignacion": 2159,
+    "dia": "Jueves",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 293,
+    "id_asignacion": 2158,
+    "dia": "Miércoles",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 294,
+    "id_asignacion": 2157,
+    "dia": "Martes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 295,
+    "id_asignacion": 2156,
+    "dia": "Jueves",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 296,
+    "id_asignacion": 2155,
+    "dia": "Martes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 297,
+    "id_asignacion": 2154,
+    "dia": "Viernes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 298,
+    "id_asignacion": 2153,
+    "dia": "Martes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 299,
+    "id_asignacion": 2152,
+    "dia": "Jueves",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 300,
+    "id_asignacion": 2151,
+    "dia": "Lunes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 301,
+    "id_asignacion": 1144,
+    "dia": "Miércoles",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 302,
+    "id_asignacion": 1143,
+    "dia": "Martes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 303,
+    "id_asignacion": 1142,
+    "dia": "Lunes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 304,
+    "id_asignacion": 1141,
+    "dia": "Miércoles",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 305,
+    "id_asignacion": 1140,
+    "dia": "Lunes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 306,
+    "id_asignacion": 1139,
+    "dia": "Jueves",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 307,
+    "id_asignacion": 1138,
+    "dia": "Lunes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 308,
+    "id_asignacion": 1137,
+    "dia": "Miércoles",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 309,
+    "id_asignacion": 1136,
+    "dia": "Viernes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 310,
+    "id_asignacion": 2144,
+    "dia": "Miércoles",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 311,
+    "id_asignacion": 2143,
+    "dia": "Martes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 312,
+    "id_asignacion": 2142,
+    "dia": "Lunes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 313,
+    "id_asignacion": 2141,
+    "dia": "Miércoles",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 314,
+    "id_asignacion": 2140,
+    "dia": "Lunes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 315,
+    "id_asignacion": 2139,
+    "dia": "Jueves",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 316,
+    "id_asignacion": 2138,
+    "dia": "Lunes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 317,
+    "id_asignacion": 2137,
+    "dia": "Miércoles",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 318,
+    "id_asignacion": 2136,
+    "dia": "Viernes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 319,
+    "id_asignacion": 1129,
+    "dia": "Martes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 320,
+    "id_asignacion": 1128,
+    "dia": "Lunes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 321,
+    "id_asignacion": 1127,
+    "dia": "Viernes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 322,
+    "id_asignacion": 1126,
+    "dia": "Martes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 323,
+    "id_asignacion": 1125,
+    "dia": "Viernes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 324,
+    "id_asignacion": 1124,
+    "dia": "Miércoles",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 325,
+    "id_asignacion": 1123,
+    "dia": "Viernes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 326,
+    "id_asignacion": 1122,
+    "dia": "Martes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 327,
+    "id_asignacion": 1121,
+    "dia": "Jueves",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 328,
+    "id_asignacion": 2129,
+    "dia": "Martes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 329,
+    "id_asignacion": 2128,
+    "dia": "Lunes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 330,
+    "id_asignacion": 2127,
+    "dia": "Viernes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 331,
+    "id_asignacion": 2126,
+    "dia": "Martes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 332,
+    "id_asignacion": 2125,
+    "dia": "Viernes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 333,
+    "id_asignacion": 2124,
+    "dia": "Miércoles",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 334,
+    "id_asignacion": 2123,
+    "dia": "Viernes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 335,
+    "id_asignacion": 2122,
+    "dia": "Martes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 336,
+    "id_asignacion": 2121,
+    "dia": "Jueves",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 337,
+    "id_asignacion": 1113,
+    "dia": "Viernes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 338,
+    "id_asignacion": 1112,
+    "dia": "Jueves",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 339,
+    "id_asignacion": 1111,
+    "dia": "Lunes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 340,
+    "id_asignacion": 1110,
+    "dia": "Jueves",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 341,
+    "id_asignacion": 1109,
+    "dia": "Martes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 342,
+    "id_asignacion": 1108,
+    "dia": "Jueves",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 343,
+    "id_asignacion": 1107,
+    "dia": "Lunes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 344,
+    "id_asignacion": 1106,
+    "dia": "Miércoles",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 345,
+    "id_asignacion": 2113,
+    "dia": "Viernes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 346,
+    "id_asignacion": 2112,
+    "dia": "Jueves",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 347,
+    "id_asignacion": 2111,
+    "dia": "Lunes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 348,
+    "id_asignacion": 2110,
+    "dia": "Jueves",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 349,
+    "id_asignacion": 2109,
+    "dia": "Martes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 350,
+    "id_asignacion": 2108,
+    "dia": "Jueves",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 351,
+    "id_asignacion": 2107,
+    "dia": "Lunes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 352,
+    "id_asignacion": 2106,
+    "dia": "Miércoles",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 353,
+    "id_asignacion": 1098,
+    "dia": "Jueves",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 354,
+    "id_asignacion": 1097,
+    "dia": "Miércoles",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 355,
+    "id_asignacion": 1096,
+    "dia": "Viernes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 356,
+    "id_asignacion": 1095,
+    "dia": "Miércoles",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 357,
+    "id_asignacion": 1094,
+    "dia": "Lunes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 358,
+    "id_asignacion": 1093,
+    "dia": "Miércoles",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 359,
+    "id_asignacion": 1092,
+    "dia": "Viernes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 360,
+    "id_asignacion": 1091,
+    "dia": "Martes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 361,
+    "id_asignacion": 2098,
+    "dia": "Jueves",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 362,
+    "id_asignacion": 2097,
+    "dia": "Miércoles",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 363,
+    "id_asignacion": 2096,
+    "dia": "Viernes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 364,
+    "id_asignacion": 2095,
+    "dia": "Miércoles",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 365,
+    "id_asignacion": 2094,
+    "dia": "Lunes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 366,
+    "id_asignacion": 2093,
+    "dia": "Miércoles",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 367,
+    "id_asignacion": 2092,
+    "dia": "Viernes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 368,
+    "id_asignacion": 2091,
+    "dia": "Martes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 369,
+    "id_asignacion": 1082,
+    "dia": "Martes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 370,
+    "id_asignacion": 1081,
+    "dia": "Jueves",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 371,
+    "id_asignacion": 1080,
+    "dia": "Martes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 372,
+    "id_asignacion": 1079,
+    "dia": "Viernes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 373,
+    "id_asignacion": 1078,
+    "dia": "Martes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 374,
+    "id_asignacion": 1077,
+    "dia": "Jueves",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 375,
+    "id_asignacion": 1076,
+    "dia": "Lunes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 376,
+    "id_asignacion": 2082,
+    "dia": "Martes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 377,
+    "id_asignacion": 2081,
+    "dia": "Jueves",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 378,
+    "id_asignacion": 2080,
+    "dia": "Martes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 379,
+    "id_asignacion": 2079,
+    "dia": "Viernes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 380,
+    "id_asignacion": 2078,
+    "dia": "Martes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 381,
+    "id_asignacion": 2077,
+    "dia": "Jueves",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 382,
+    "id_asignacion": 2076,
+    "dia": "Lunes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 383,
+    "id_asignacion": 1067,
+    "dia": "Lunes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 384,
+    "id_asignacion": 1066,
+    "dia": "Miércoles",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 385,
+    "id_asignacion": 1065,
+    "dia": "Lunes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 386,
+    "id_asignacion": 1064,
+    "dia": "Jueves",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 387,
+    "id_asignacion": 1063,
+    "dia": "Lunes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 388,
+    "id_asignacion": 1062,
+    "dia": "Miércoles",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 389,
+    "id_asignacion": 1061,
+    "dia": "Viernes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 390,
+    "id_asignacion": 2067,
+    "dia": "Lunes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 391,
+    "id_asignacion": 2066,
+    "dia": "Miércoles",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 392,
+    "id_asignacion": 2065,
+    "dia": "Lunes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 393,
+    "id_asignacion": 2064,
+    "dia": "Jueves",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 394,
+    "id_asignacion": 2063,
+    "dia": "Lunes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 395,
+    "id_asignacion": 2062,
+    "dia": "Miércoles",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 396,
+    "id_asignacion": 2061,
+    "dia": "Viernes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 397,
+    "id_asignacion": 1051,
+    "dia": "Martes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 202"
+  },
+  {
+    "id_horario": 398,
+    "id_asignacion": 1050,
+    "dia": "Viernes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 399,
+    "id_asignacion": 1049,
+    "dia": "Miércoles",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 202"
+  },
+  {
+    "id_horario": 400,
+    "id_asignacion": 1048,
+    "dia": "Viernes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 202"
+  },
+  {
+    "id_horario": 401,
+    "id_asignacion": 1047,
+    "dia": "Martes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 202"
+  },
+  {
+    "id_horario": 402,
+    "id_asignacion": 1046,
+    "dia": "Jueves",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 202"
+  },
+  {
+    "id_horario": 403,
+    "id_asignacion": 2051,
+    "dia": "Martes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 202"
+  },
+  {
+    "id_horario": 404,
+    "id_asignacion": 2050,
+    "dia": "Viernes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 405,
+    "id_asignacion": 2049,
+    "dia": "Miércoles",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 202"
+  },
+  {
+    "id_horario": 406,
+    "id_asignacion": 2048,
+    "dia": "Viernes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 202"
+  },
+  {
+    "id_horario": 407,
+    "id_asignacion": 2047,
+    "dia": "Martes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 202"
+  },
+  {
+    "id_horario": 408,
+    "id_asignacion": 2046,
+    "dia": "Jueves",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 202"
+  },
+  {
+    "id_horario": 409,
+    "id_asignacion": 1036,
+    "dia": "Lunes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 201"
+  },
+  {
+    "id_horario": 410,
+    "id_asignacion": 1035,
+    "dia": "Jueves",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 411,
+    "id_asignacion": 1034,
+    "dia": "Martes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 201"
+  },
+  {
+    "id_horario": 412,
+    "id_asignacion": 1033,
+    "dia": "Jueves",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 201"
+  },
+  {
+    "id_horario": 413,
+    "id_asignacion": 1032,
+    "dia": "Lunes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 201"
+  },
+  {
+    "id_horario": 414,
+    "id_asignacion": 1031,
+    "dia": "Miércoles",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 201"
+  },
+  {
+    "id_horario": 415,
+    "id_asignacion": 2036,
+    "dia": "Lunes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 201"
+  },
+  {
+    "id_horario": 416,
+    "id_asignacion": 2035,
+    "dia": "Jueves",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 417,
+    "id_asignacion": 2034,
+    "dia": "Martes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 201"
+  },
+  {
+    "id_horario": 418,
+    "id_asignacion": 2033,
+    "dia": "Jueves",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 201"
+  },
+  {
+    "id_horario": 419,
+    "id_asignacion": 2032,
+    "dia": "Lunes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 201"
+  },
+  {
+    "id_horario": 420,
+    "id_asignacion": 2031,
+    "dia": "Miércoles",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 201"
+  },
+  {
+    "id_horario": 421,
+    "id_asignacion": 1020,
+    "dia": "Miércoles",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 422,
+    "id_asignacion": 1019,
+    "dia": "Lunes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 102"
+  },
+  {
+    "id_horario": 423,
+    "id_asignacion": 1018,
+    "dia": "Miércoles",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 102"
+  },
+  {
+    "id_horario": 424,
+    "id_asignacion": 1017,
+    "dia": "Viernes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 102"
+  },
+  {
+    "id_horario": 425,
+    "id_asignacion": 1016,
+    "dia": "Martes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 102"
+  },
+  {
+    "id_horario": 426,
+    "id_asignacion": 2020,
+    "dia": "Miércoles",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 427,
+    "id_asignacion": 2019,
+    "dia": "Lunes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 102"
+  },
+  {
+    "id_horario": 428,
+    "id_asignacion": 2018,
+    "dia": "Miércoles",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 102"
+  },
+  {
+    "id_horario": 429,
+    "id_asignacion": 2017,
+    "dia": "Viernes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 102"
+  },
+  {
+    "id_horario": 430,
+    "id_asignacion": 2016,
+    "dia": "Martes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 102"
+  },
+  {
+    "id_horario": 431,
+    "id_asignacion": 1005,
+    "dia": "Martes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 432,
+    "id_asignacion": 1004,
+    "dia": "Viernes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 101"
+  },
+  {
+    "id_horario": 433,
+    "id_asignacion": 1003,
+    "dia": "Martes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 101"
+  },
+  {
+    "id_horario": 434,
+    "id_asignacion": 1002,
+    "dia": "Jueves",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 101"
+  },
+  {
+    "id_horario": 435,
+    "id_asignacion": 1001,
+    "dia": "Lunes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 101"
+  },
+  {
+    "id_horario": 436,
+    "id_asignacion": 2005,
+    "dia": "Martes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 437,
+    "id_asignacion": 2004,
+    "dia": "Viernes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 101"
+  },
+  {
+    "id_horario": 438,
+    "id_asignacion": 2003,
+    "dia": "Martes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 101"
+  },
+  {
+    "id_horario": 439,
+    "id_asignacion": 2002,
+    "dia": "Jueves",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 101"
+  },
+  {
+    "id_horario": 440,
+    "id_asignacion": 2001,
+    "dia": "Lunes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 101"
+  },
+  {
+    "id_horario": 441,
+    "id_asignacion": 1329,
+    "dia": "Miércoles",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 442,
+    "id_asignacion": 1328,
+    "dia": "Lunes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 443,
+    "id_asignacion": 1325,
+    "dia": "Martes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 444,
+    "id_asignacion": 1321,
+    "dia": "Lunes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 445,
+    "id_asignacion": 1320,
+    "dia": "Jueves",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 446,
+    "id_asignacion": 1319,
+    "dia": "Martes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 447,
+    "id_asignacion": 1318,
+    "dia": "Jueves",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 448,
+    "id_asignacion": 1317,
+    "dia": "Lunes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 449,
+    "id_asignacion": 1316,
+    "dia": "Miércoles",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 450,
+    "id_asignacion": 2329,
+    "dia": "Miércoles",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 451,
+    "id_asignacion": 2328,
+    "dia": "Lunes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 452,
+    "id_asignacion": 2325,
+    "dia": "Martes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 453,
+    "id_asignacion": 2321,
+    "dia": "Lunes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 454,
+    "id_asignacion": 2320,
+    "dia": "Jueves",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 455,
+    "id_asignacion": 2319,
+    "dia": "Martes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 456,
+    "id_asignacion": 2318,
+    "dia": "Jueves",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 457,
+    "id_asignacion": 2317,
+    "dia": "Lunes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 458,
+    "id_asignacion": 2316,
+    "dia": "Miércoles",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 459,
+    "id_asignacion": 1314,
+    "dia": "Martes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 460,
+    "id_asignacion": 1313,
+    "dia": "Viernes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 461,
+    "id_asignacion": 1310,
+    "dia": "Lunes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 462,
+    "id_asignacion": 1306,
+    "dia": "Viernes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 463,
+    "id_asignacion": 1305,
+    "dia": "Miércoles",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 464,
+    "id_asignacion": 1304,
+    "dia": "Lunes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 465,
+    "id_asignacion": 1303,
+    "dia": "Miércoles",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 466,
+    "id_asignacion": 1302,
+    "dia": "Viernes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 467,
+    "id_asignacion": 1301,
+    "dia": "Martes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 468,
+    "id_asignacion": 2314,
+    "dia": "Martes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 469,
+    "id_asignacion": 2313,
+    "dia": "Viernes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 470,
+    "id_asignacion": 2310,
+    "dia": "Lunes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 471,
+    "id_asignacion": 2306,
+    "dia": "Viernes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 472,
+    "id_asignacion": 2305,
+    "dia": "Miércoles",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 473,
+    "id_asignacion": 2304,
+    "dia": "Lunes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 474,
+    "id_asignacion": 2303,
+    "dia": "Miércoles",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 475,
+    "id_asignacion": 2302,
+    "dia": "Viernes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 476,
+    "id_asignacion": 2301,
+    "dia": "Martes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 477,
+    "id_asignacion": 1299,
+    "dia": "Lunes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 478,
+    "id_asignacion": 1298,
+    "dia": "Jueves",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 479,
+    "id_asignacion": 1295,
+    "dia": "Viernes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 480,
+    "id_asignacion": 1291,
+    "dia": "Jueves",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 481,
+    "id_asignacion": 1290,
+    "dia": "Martes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 482,
+    "id_asignacion": 1289,
+    "dia": "Viernes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 483,
+    "id_asignacion": 1288,
+    "dia": "Martes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 484,
+    "id_asignacion": 1287,
+    "dia": "Jueves",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 485,
+    "id_asignacion": 1286,
+    "dia": "Lunes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 486,
+    "id_asignacion": 2299,
+    "dia": "Lunes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 487,
+    "id_asignacion": 2298,
+    "dia": "Jueves",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 488,
+    "id_asignacion": 2295,
+    "dia": "Viernes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 489,
+    "id_asignacion": 2291,
+    "dia": "Jueves",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 490,
+    "id_asignacion": 2290,
+    "dia": "Martes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 491,
+    "id_asignacion": 2289,
+    "dia": "Viernes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 492,
+    "id_asignacion": 2288,
+    "dia": "Martes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 493,
+    "id_asignacion": 2287,
+    "dia": "Jueves",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 494,
+    "id_asignacion": 2286,
+    "dia": "Lunes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 495,
+    "id_asignacion": 1284,
+    "dia": "Viernes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 496,
+    "id_asignacion": 1283,
+    "dia": "Miércoles",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 497,
+    "id_asignacion": 1280,
+    "dia": "Jueves",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 498,
+    "id_asignacion": 1276,
+    "dia": "Miércoles",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 499,
+    "id_asignacion": 1275,
+    "dia": "Lunes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 500,
+    "id_asignacion": 1274,
+    "dia": "Jueves",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 501,
+    "id_asignacion": 1273,
+    "dia": "Lunes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 502,
+    "id_asignacion": 1272,
+    "dia": "Miércoles",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 503,
+    "id_asignacion": 1271,
+    "dia": "Viernes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 504,
+    "id_asignacion": 2284,
+    "dia": "Viernes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 505,
+    "id_asignacion": 2283,
+    "dia": "Miércoles",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 506,
+    "id_asignacion": 2280,
+    "dia": "Jueves",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 507,
+    "id_asignacion": 2276,
+    "dia": "Miércoles",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 508,
+    "id_asignacion": 2275,
+    "dia": "Lunes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 509,
+    "id_asignacion": 2274,
+    "dia": "Jueves",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 510,
+    "id_asignacion": 2273,
+    "dia": "Lunes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 511,
+    "id_asignacion": 2272,
+    "dia": "Miércoles",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 512,
+    "id_asignacion": 2271,
+    "dia": "Viernes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 513,
+    "id_asignacion": 1268,
+    "dia": "Martes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 514,
+    "id_asignacion": 1265,
+    "dia": "Miércoles",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 515,
+    "id_asignacion": 1261,
+    "dia": "Martes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 516,
+    "id_asignacion": 1260,
+    "dia": "Viernes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 517,
+    "id_asignacion": 1259,
+    "dia": "Miércoles",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 518,
+    "id_asignacion": 1258,
+    "dia": "Viernes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 519,
+    "id_asignacion": 1257,
+    "dia": "Martes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 520,
+    "id_asignacion": 1256,
+    "dia": "Jueves",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 521,
+    "id_asignacion": 2268,
+    "dia": "Martes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 522,
+    "id_asignacion": 2265,
+    "dia": "Miércoles",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 523,
+    "id_asignacion": 2261,
+    "dia": "Martes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 524,
+    "id_asignacion": 2260,
+    "dia": "Viernes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 525,
+    "id_asignacion": 2259,
+    "dia": "Miércoles",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 526,
+    "id_asignacion": 2258,
+    "dia": "Viernes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 527,
+    "id_asignacion": 2257,
+    "dia": "Martes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 528,
+    "id_asignacion": 2256,
+    "dia": "Jueves",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 529,
+    "id_asignacion": 1253,
+    "dia": "Lunes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 530,
+    "id_asignacion": 1250,
+    "dia": "Martes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 531,
+    "id_asignacion": 1246,
+    "dia": "Lunes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 532,
+    "id_asignacion": 1245,
+    "dia": "Jueves",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 533,
+    "id_asignacion": 1244,
+    "dia": "Martes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 534,
+    "id_asignacion": 1243,
+    "dia": "Jueves",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 535,
+    "id_asignacion": 1242,
+    "dia": "Lunes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 536,
+    "id_asignacion": 1241,
+    "dia": "Miércoles",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 537,
+    "id_asignacion": 2253,
+    "dia": "Lunes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Laboratorio"
+  },
+  {
+    "id_horario": 538,
+    "id_asignacion": 2250,
+    "dia": "Martes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 539,
+    "id_asignacion": 2246,
+    "dia": "Lunes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 540,
+    "id_asignacion": 2245,
+    "dia": "Jueves",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 541,
+    "id_asignacion": 2244,
+    "dia": "Martes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 542,
+    "id_asignacion": 2243,
+    "dia": "Jueves",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 543,
+    "id_asignacion": 2242,
+    "dia": "Lunes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 544,
+    "id_asignacion": 2241,
+    "dia": "Miércoles",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 545,
+    "id_asignacion": 1235,
+    "dia": "Lunes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 546,
+    "id_asignacion": 1231,
+    "dia": "Viernes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 547,
+    "id_asignacion": 1230,
+    "dia": "Miércoles",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 548,
+    "id_asignacion": 1229,
+    "dia": "Lunes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 549,
+    "id_asignacion": 1228,
+    "dia": "Miércoles",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 550,
+    "id_asignacion": 1227,
+    "dia": "Viernes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 551,
+    "id_asignacion": 1226,
+    "dia": "Martes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 552,
+    "id_asignacion": 2235,
+    "dia": "Lunes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 553,
+    "id_asignacion": 2231,
+    "dia": "Viernes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 554,
+    "id_asignacion": 2230,
+    "dia": "Miércoles",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 555,
+    "id_asignacion": 2229,
+    "dia": "Lunes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 556,
+    "id_asignacion": 2228,
+    "dia": "Miércoles",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 557,
+    "id_asignacion": 2227,
+    "dia": "Viernes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 558,
+    "id_asignacion": 2226,
+    "dia": "Martes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 559,
+    "id_asignacion": 1220,
+    "dia": "Viernes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 560,
+    "id_asignacion": 1216,
+    "dia": "Jueves",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 561,
+    "id_asignacion": 1215,
+    "dia": "Martes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 562,
+    "id_asignacion": 1214,
+    "dia": "Viernes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 563,
+    "id_asignacion": 1213,
+    "dia": "Martes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 564,
+    "id_asignacion": 1212,
+    "dia": "Jueves",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 565,
+    "id_asignacion": 1211,
+    "dia": "Lunes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 566,
+    "id_asignacion": 2220,
+    "dia": "Viernes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 567,
+    "id_asignacion": 2216,
+    "dia": "Jueves",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 568,
+    "id_asignacion": 2215,
+    "dia": "Martes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 569,
+    "id_asignacion": 2214,
+    "dia": "Viernes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 570,
+    "id_asignacion": 2213,
+    "dia": "Martes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 571,
+    "id_asignacion": 2212,
+    "dia": "Jueves",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 572,
+    "id_asignacion": 2211,
+    "dia": "Lunes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 573,
+    "id_asignacion": 1205,
+    "dia": "Jueves",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 574,
+    "id_asignacion": 1201,
+    "dia": "Miércoles",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 575,
+    "id_asignacion": 1200,
+    "dia": "Lunes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 576,
+    "id_asignacion": 1199,
+    "dia": "Jueves",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 577,
+    "id_asignacion": 1198,
+    "dia": "Lunes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 578,
+    "id_asignacion": 1197,
+    "dia": "Miércoles",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 579,
+    "id_asignacion": 1196,
+    "dia": "Viernes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 580,
+    "id_asignacion": 2205,
+    "dia": "Jueves",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 581,
+    "id_asignacion": 2201,
+    "dia": "Miércoles",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 582,
+    "id_asignacion": 2200,
+    "dia": "Lunes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 583,
+    "id_asignacion": 2199,
+    "dia": "Jueves",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 584,
+    "id_asignacion": 2198,
+    "dia": "Lunes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 585,
+    "id_asignacion": 2197,
+    "dia": "Miércoles",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 586,
+    "id_asignacion": 2196,
+    "dia": "Viernes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 587,
+    "id_asignacion": 1190,
+    "dia": "Miércoles",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 588,
+    "id_asignacion": 1186,
+    "dia": "Martes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 589,
+    "id_asignacion": 1185,
+    "dia": "Viernes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 590,
+    "id_asignacion": 1184,
+    "dia": "Miércoles",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 591,
+    "id_asignacion": 1183,
+    "dia": "Viernes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 592,
+    "id_asignacion": 1182,
+    "dia": "Martes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 593,
+    "id_asignacion": 1181,
+    "dia": "Jueves",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 594,
+    "id_asignacion": 2190,
+    "dia": "Miércoles",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 595,
+    "id_asignacion": 2186,
+    "dia": "Martes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 596,
+    "id_asignacion": 2185,
+    "dia": "Viernes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 597,
+    "id_asignacion": 2184,
+    "dia": "Miércoles",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 598,
+    "id_asignacion": 2183,
+    "dia": "Viernes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 599,
+    "id_asignacion": 2182,
+    "dia": "Martes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 600,
+    "id_asignacion": 2181,
+    "dia": "Jueves",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 601,
+    "id_asignacion": 1175,
+    "dia": "Martes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 602,
+    "id_asignacion": 1171,
+    "dia": "Lunes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 603,
+    "id_asignacion": 1170,
+    "dia": "Jueves",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 604,
+    "id_asignacion": 1169,
+    "dia": "Martes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 605,
+    "id_asignacion": 1168,
+    "dia": "Jueves",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 606,
+    "id_asignacion": 1167,
+    "dia": "Lunes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 607,
+    "id_asignacion": 1166,
+    "dia": "Miércoles",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 608,
+    "id_asignacion": 2175,
+    "dia": "Martes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 609,
+    "id_asignacion": 2171,
+    "dia": "Lunes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 610,
+    "id_asignacion": 2170,
+    "dia": "Jueves",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 611,
+    "id_asignacion": 2169,
+    "dia": "Martes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 612,
+    "id_asignacion": 2168,
+    "dia": "Jueves",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 613,
+    "id_asignacion": 2167,
+    "dia": "Lunes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 614,
+    "id_asignacion": 2166,
+    "dia": "Miércoles",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 615,
+    "id_asignacion": 1160,
+    "dia": "Lunes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 616,
+    "id_asignacion": 1156,
+    "dia": "Viernes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 617,
+    "id_asignacion": 1155,
+    "dia": "Miércoles",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 618,
+    "id_asignacion": 1154,
+    "dia": "Lunes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 619,
+    "id_asignacion": 1153,
+    "dia": "Miércoles",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 620,
+    "id_asignacion": 1152,
+    "dia": "Viernes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 621,
+    "id_asignacion": 1151,
+    "dia": "Martes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 622,
+    "id_asignacion": 2160,
+    "dia": "Lunes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Sala de sistemas"
+  },
+  {
+    "id_horario": 623,
+    "id_asignacion": 2156,
+    "dia": "Viernes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 624,
+    "id_asignacion": 2155,
+    "dia": "Miércoles",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 625,
+    "id_asignacion": 2154,
+    "dia": "Lunes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 626,
+    "id_asignacion": 2153,
+    "dia": "Miércoles",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 627,
+    "id_asignacion": 2152,
+    "dia": "Viernes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 628,
+    "id_asignacion": 2151,
+    "dia": "Martes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 629,
+    "id_asignacion": 1141,
+    "dia": "Jueves",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 630,
+    "id_asignacion": 1140,
+    "dia": "Martes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 631,
+    "id_asignacion": 1139,
+    "dia": "Viernes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 632,
+    "id_asignacion": 1138,
+    "dia": "Martes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 633,
+    "id_asignacion": 1137,
+    "dia": "Jueves",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 634,
+    "id_asignacion": 1136,
+    "dia": "Lunes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 635,
+    "id_asignacion": 2141,
+    "dia": "Jueves",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 636,
+    "id_asignacion": 2140,
+    "dia": "Martes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 637,
+    "id_asignacion": 2139,
+    "dia": "Viernes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 638,
+    "id_asignacion": 2138,
+    "dia": "Martes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 639,
+    "id_asignacion": 2137,
+    "dia": "Jueves",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 640,
+    "id_asignacion": 2136,
+    "dia": "Lunes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 641,
+    "id_asignacion": 1126,
+    "dia": "Miércoles",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 642,
+    "id_asignacion": 1125,
+    "dia": "Lunes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 643,
+    "id_asignacion": 1124,
+    "dia": "Jueves",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 644,
+    "id_asignacion": 1123,
+    "dia": "Lunes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 645,
+    "id_asignacion": 1122,
+    "dia": "Miércoles",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 646,
+    "id_asignacion": 1121,
+    "dia": "Viernes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 647,
+    "id_asignacion": 2126,
+    "dia": "Miércoles",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 648,
+    "id_asignacion": 2125,
+    "dia": "Lunes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 649,
+    "id_asignacion": 2124,
+    "dia": "Jueves",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 650,
+    "id_asignacion": 2123,
+    "dia": "Lunes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 651,
+    "id_asignacion": 2122,
+    "dia": "Miércoles",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 652,
+    "id_asignacion": 2121,
+    "dia": "Viernes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 653,
+    "id_asignacion": 1111,
+    "dia": "Martes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 654,
+    "id_asignacion": 1110,
+    "dia": "Viernes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 655,
+    "id_asignacion": 1109,
+    "dia": "Miércoles",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 656,
+    "id_asignacion": 1108,
+    "dia": "Viernes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 657,
+    "id_asignacion": 1107,
+    "dia": "Martes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 658,
+    "id_asignacion": 1106,
+    "dia": "Jueves",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 659,
+    "id_asignacion": 2111,
+    "dia": "Martes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 660,
+    "id_asignacion": 2110,
+    "dia": "Viernes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 661,
+    "id_asignacion": 2109,
+    "dia": "Miércoles",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 662,
+    "id_asignacion": 2108,
+    "dia": "Viernes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 663,
+    "id_asignacion": 2107,
+    "dia": "Martes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 664,
+    "id_asignacion": 2106,
+    "dia": "Jueves",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 665,
+    "id_asignacion": 1096,
+    "dia": "Lunes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 666,
+    "id_asignacion": 1095,
+    "dia": "Jueves",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 667,
+    "id_asignacion": 1094,
+    "dia": "Martes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 668,
+    "id_asignacion": 1093,
+    "dia": "Jueves",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 669,
+    "id_asignacion": 1092,
+    "dia": "Lunes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 670,
+    "id_asignacion": 1091,
+    "dia": "Miércoles",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 671,
+    "id_asignacion": 2096,
+    "dia": "Lunes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 672,
+    "id_asignacion": 2095,
+    "dia": "Jueves",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 673,
+    "id_asignacion": 2094,
+    "dia": "Martes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 674,
+    "id_asignacion": 2093,
+    "dia": "Jueves",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 675,
+    "id_asignacion": 2092,
+    "dia": "Lunes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 676,
+    "id_asignacion": 2091,
+    "dia": "Miércoles",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 677,
+    "id_asignacion": 1081,
+    "dia": "Viernes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 678,
+    "id_asignacion": 1080,
+    "dia": "Miércoles",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 679,
+    "id_asignacion": 1079,
+    "dia": "Lunes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 680,
+    "id_asignacion": 1078,
+    "dia": "Miércoles",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 681,
+    "id_asignacion": 1077,
+    "dia": "Viernes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 682,
+    "id_asignacion": 1076,
+    "dia": "Martes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 683,
+    "id_asignacion": 2081,
+    "dia": "Viernes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 684,
+    "id_asignacion": 2080,
+    "dia": "Miércoles",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 685,
+    "id_asignacion": 2079,
+    "dia": "Lunes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 686,
+    "id_asignacion": 2078,
+    "dia": "Miércoles",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 687,
+    "id_asignacion": 2077,
+    "dia": "Viernes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 688,
+    "id_asignacion": 2076,
+    "dia": "Martes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 689,
+    "id_asignacion": 1066,
+    "dia": "Jueves",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 690,
+    "id_asignacion": 1065,
+    "dia": "Martes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 691,
+    "id_asignacion": 1064,
+    "dia": "Viernes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 692,
+    "id_asignacion": 1063,
+    "dia": "Martes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 693,
+    "id_asignacion": 1062,
+    "dia": "Jueves",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 694,
+    "id_asignacion": 1061,
+    "dia": "Lunes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 695,
+    "id_asignacion": 2066,
+    "dia": "Jueves",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 696,
+    "id_asignacion": 2065,
+    "dia": "Martes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 697,
+    "id_asignacion": 2064,
+    "dia": "Viernes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 698,
+    "id_asignacion": 2063,
+    "dia": "Martes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 699,
+    "id_asignacion": 2062,
+    "dia": "Jueves",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 700,
+    "id_asignacion": 2061,
+    "dia": "Lunes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 701,
+    "id_asignacion": 1051,
+    "dia": "Miércoles",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 202"
+  },
+  {
+    "id_horario": 702,
+    "id_asignacion": 1050,
+    "dia": "Lunes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 703,
+    "id_asignacion": 1049,
+    "dia": "Jueves",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 202"
+  },
+  {
+    "id_horario": 704,
+    "id_asignacion": 1048,
+    "dia": "Lunes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 202"
+  },
+  {
+    "id_horario": 705,
+    "id_asignacion": 1047,
+    "dia": "Miércoles",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 202"
+  },
+  {
+    "id_horario": 706,
+    "id_asignacion": 1046,
+    "dia": "Viernes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 202"
+  },
+  {
+    "id_horario": 707,
+    "id_asignacion": 2051,
+    "dia": "Miércoles",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 202"
+  },
+  {
+    "id_horario": 708,
+    "id_asignacion": 2050,
+    "dia": "Lunes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 709,
+    "id_asignacion": 2049,
+    "dia": "Jueves",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 202"
+  },
+  {
+    "id_horario": 710,
+    "id_asignacion": 2048,
+    "dia": "Lunes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 202"
+  },
+  {
+    "id_horario": 711,
+    "id_asignacion": 2047,
+    "dia": "Miércoles",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 202"
+  },
+  {
+    "id_horario": 712,
+    "id_asignacion": 2046,
+    "dia": "Viernes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 202"
+  },
+  {
+    "id_horario": 713,
+    "id_asignacion": 1036,
+    "dia": "Martes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 201"
+  },
+  {
+    "id_horario": 714,
+    "id_asignacion": 1035,
+    "dia": "Viernes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 715,
+    "id_asignacion": 1034,
+    "dia": "Miércoles",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 201"
+  },
+  {
+    "id_horario": 716,
+    "id_asignacion": 1033,
+    "dia": "Viernes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 201"
+  },
+  {
+    "id_horario": 717,
+    "id_asignacion": 1032,
+    "dia": "Martes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 201"
+  },
+  {
+    "id_horario": 718,
+    "id_asignacion": 1031,
+    "dia": "Jueves",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 201"
+  },
+  {
+    "id_horario": 719,
+    "id_asignacion": 2036,
+    "dia": "Martes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 201"
+  },
+  {
+    "id_horario": 720,
+    "id_asignacion": 2035,
+    "dia": "Viernes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 721,
+    "id_asignacion": 2034,
+    "dia": "Miércoles",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 201"
+  },
+  {
+    "id_horario": 722,
+    "id_asignacion": 2033,
+    "dia": "Viernes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 201"
+  },
+  {
+    "id_horario": 723,
+    "id_asignacion": 2032,
+    "dia": "Martes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 201"
+  },
+  {
+    "id_horario": 724,
+    "id_asignacion": 2031,
+    "dia": "Jueves",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 201"
+  },
+  {
+    "id_horario": 725,
+    "id_asignacion": 1020,
+    "dia": "Jueves",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 726,
+    "id_asignacion": 1019,
+    "dia": "Martes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 102"
+  },
+  {
+    "id_horario": 727,
+    "id_asignacion": 1018,
+    "dia": "Jueves",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 102"
+  },
+  {
+    "id_horario": 728,
+    "id_asignacion": 1017,
+    "dia": "Lunes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 102"
+  },
+  {
+    "id_horario": 729,
+    "id_asignacion": 1016,
+    "dia": "Miércoles",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 102"
+  },
+  {
+    "id_horario": 730,
+    "id_asignacion": 2020,
+    "dia": "Jueves",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 731,
+    "id_asignacion": 2019,
+    "dia": "Martes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 102"
+  },
+  {
+    "id_horario": 732,
+    "id_asignacion": 2018,
+    "dia": "Jueves",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 102"
+  },
+  {
+    "id_horario": 733,
+    "id_asignacion": 2017,
+    "dia": "Lunes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 102"
+  },
+  {
+    "id_horario": 734,
+    "id_asignacion": 2016,
+    "dia": "Miércoles",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 102"
+  },
+  {
+    "id_horario": 735,
+    "id_asignacion": 1005,
+    "dia": "Miércoles",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 736,
+    "id_asignacion": 1004,
+    "dia": "Lunes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 101"
+  },
+  {
+    "id_horario": 737,
+    "id_asignacion": 1003,
+    "dia": "Miércoles",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 101"
+  },
+  {
+    "id_horario": 738,
+    "id_asignacion": 1002,
+    "dia": "Viernes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 101"
+  },
+  {
+    "id_horario": 739,
+    "id_asignacion": 1001,
+    "dia": "Martes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 101"
+  },
+  {
+    "id_horario": 740,
+    "id_asignacion": 2005,
+    "dia": "Miércoles",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Cancha múltiple"
+  },
+  {
+    "id_horario": 741,
+    "id_asignacion": 2004,
+    "dia": "Lunes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 101"
+  },
+  {
+    "id_horario": 742,
+    "id_asignacion": 2003,
+    "dia": "Miércoles",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 101"
+  },
+  {
+    "id_horario": 743,
+    "id_asignacion": 2002,
+    "dia": "Viernes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 101"
+  },
+  {
+    "id_horario": 744,
+    "id_asignacion": 2001,
+    "dia": "Martes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 101"
+  },
+  {
+    "id_horario": 745,
+    "id_asignacion": 1321,
+    "dia": "Martes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 746,
+    "id_asignacion": 1318,
+    "dia": "Viernes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 747,
+    "id_asignacion": 1317,
+    "dia": "Martes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 748,
+    "id_asignacion": 1316,
+    "dia": "Jueves",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 749,
+    "id_asignacion": 2321,
+    "dia": "Martes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 750,
+    "id_asignacion": 2318,
+    "dia": "Viernes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 751,
+    "id_asignacion": 2317,
+    "dia": "Martes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 752,
+    "id_asignacion": 2316,
+    "dia": "Jueves",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 1102"
+  },
+  {
+    "id_horario": 753,
+    "id_asignacion": 1306,
+    "dia": "Lunes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 754,
+    "id_asignacion": 1303,
+    "dia": "Jueves",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 755,
+    "id_asignacion": 1302,
+    "dia": "Lunes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 756,
+    "id_asignacion": 1301,
+    "dia": "Miércoles",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 757,
+    "id_asignacion": 2306,
+    "dia": "Lunes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 758,
+    "id_asignacion": 2303,
+    "dia": "Jueves",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 759,
+    "id_asignacion": 2302,
+    "dia": "Lunes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 760,
+    "id_asignacion": 2301,
+    "dia": "Miércoles",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 1101"
+  },
+  {
+    "id_horario": 761,
+    "id_asignacion": 1291,
+    "dia": "Viernes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 762,
+    "id_asignacion": 1288,
+    "dia": "Miércoles",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 763,
+    "id_asignacion": 1287,
+    "dia": "Viernes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 764,
+    "id_asignacion": 1286,
+    "dia": "Martes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 765,
+    "id_asignacion": 2291,
+    "dia": "Viernes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 766,
+    "id_asignacion": 2288,
+    "dia": "Miércoles",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 767,
+    "id_asignacion": 2287,
+    "dia": "Viernes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 768,
+    "id_asignacion": 2286,
+    "dia": "Martes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 1002"
+  },
+  {
+    "id_horario": 769,
+    "id_asignacion": 1276,
+    "dia": "Jueves",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 770,
+    "id_asignacion": 1273,
+    "dia": "Martes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 771,
+    "id_asignacion": 1272,
+    "dia": "Jueves",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 772,
+    "id_asignacion": 1271,
+    "dia": "Lunes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 773,
+    "id_asignacion": 2276,
+    "dia": "Jueves",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 774,
+    "id_asignacion": 2273,
+    "dia": "Martes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 775,
+    "id_asignacion": 2272,
+    "dia": "Jueves",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 776,
+    "id_asignacion": 2271,
+    "dia": "Lunes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 1001"
+  },
+  {
+    "id_horario": 777,
+    "id_asignacion": 1261,
+    "dia": "Miércoles",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 778,
+    "id_asignacion": 1258,
+    "dia": "Lunes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 779,
+    "id_asignacion": 1257,
+    "dia": "Miércoles",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 780,
+    "id_asignacion": 1256,
+    "dia": "Viernes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 781,
+    "id_asignacion": 2261,
+    "dia": "Miércoles",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 782,
+    "id_asignacion": 2258,
+    "dia": "Lunes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 783,
+    "id_asignacion": 2257,
+    "dia": "Miércoles",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 784,
+    "id_asignacion": 2256,
+    "dia": "Viernes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 902"
+  },
+  {
+    "id_horario": 785,
+    "id_asignacion": 1246,
+    "dia": "Martes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 786,
+    "id_asignacion": 1243,
+    "dia": "Viernes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 787,
+    "id_asignacion": 1242,
+    "dia": "Martes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 788,
+    "id_asignacion": 1241,
+    "dia": "Jueves",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 789,
+    "id_asignacion": 2246,
+    "dia": "Martes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 790,
+    "id_asignacion": 2243,
+    "dia": "Viernes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 791,
+    "id_asignacion": 2242,
+    "dia": "Martes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 792,
+    "id_asignacion": 2241,
+    "dia": "Jueves",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 901"
+  },
+  {
+    "id_horario": 793,
+    "id_asignacion": 1231,
+    "dia": "Lunes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 794,
+    "id_asignacion": 1228,
+    "dia": "Jueves",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 795,
+    "id_asignacion": 1227,
+    "dia": "Lunes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 796,
+    "id_asignacion": 1226,
+    "dia": "Miércoles",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 797,
+    "id_asignacion": 2231,
+    "dia": "Lunes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 798,
+    "id_asignacion": 2228,
+    "dia": "Jueves",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 799,
+    "id_asignacion": 2227,
+    "dia": "Lunes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 800,
+    "id_asignacion": 2226,
+    "dia": "Miércoles",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 802"
+  },
+  {
+    "id_horario": 801,
+    "id_asignacion": 1216,
+    "dia": "Viernes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 802,
+    "id_asignacion": 1213,
+    "dia": "Miércoles",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 803,
+    "id_asignacion": 1212,
+    "dia": "Viernes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 804,
+    "id_asignacion": 1211,
+    "dia": "Martes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 805,
+    "id_asignacion": 2216,
+    "dia": "Viernes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 806,
+    "id_asignacion": 2213,
+    "dia": "Miércoles",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 807,
+    "id_asignacion": 2212,
+    "dia": "Viernes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 808,
+    "id_asignacion": 2211,
+    "dia": "Martes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 801"
+  },
+  {
+    "id_horario": 809,
+    "id_asignacion": 1201,
+    "dia": "Jueves",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 810,
+    "id_asignacion": 1198,
+    "dia": "Martes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 811,
+    "id_asignacion": 1197,
+    "dia": "Jueves",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 812,
+    "id_asignacion": 1196,
+    "dia": "Lunes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 813,
+    "id_asignacion": 2201,
+    "dia": "Jueves",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 814,
+    "id_asignacion": 2198,
+    "dia": "Martes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 815,
+    "id_asignacion": 2197,
+    "dia": "Jueves",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 816,
+    "id_asignacion": 2196,
+    "dia": "Lunes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 702"
+  },
+  {
+    "id_horario": 817,
+    "id_asignacion": 1186,
+    "dia": "Miércoles",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 818,
+    "id_asignacion": 1183,
+    "dia": "Lunes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 819,
+    "id_asignacion": 1182,
+    "dia": "Miércoles",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 820,
+    "id_asignacion": 1181,
+    "dia": "Viernes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 821,
+    "id_asignacion": 2186,
+    "dia": "Miércoles",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 822,
+    "id_asignacion": 2183,
+    "dia": "Lunes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 823,
+    "id_asignacion": 2182,
+    "dia": "Miércoles",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 824,
+    "id_asignacion": 2181,
+    "dia": "Viernes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 701"
+  },
+  {
+    "id_horario": 825,
+    "id_asignacion": 1171,
+    "dia": "Martes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 826,
+    "id_asignacion": 1168,
+    "dia": "Viernes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 827,
+    "id_asignacion": 1167,
+    "dia": "Martes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 828,
+    "id_asignacion": 1166,
+    "dia": "Jueves",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 829,
+    "id_asignacion": 2171,
+    "dia": "Martes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 830,
+    "id_asignacion": 2168,
+    "dia": "Viernes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 831,
+    "id_asignacion": 2167,
+    "dia": "Martes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 832,
+    "id_asignacion": 2166,
+    "dia": "Jueves",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 602"
+  },
+  {
+    "id_horario": 833,
+    "id_asignacion": 1156,
+    "dia": "Lunes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 834,
+    "id_asignacion": 1153,
+    "dia": "Jueves",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 835,
+    "id_asignacion": 1152,
+    "dia": "Lunes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 836,
+    "id_asignacion": 1151,
+    "dia": "Miércoles",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 837,
+    "id_asignacion": 2156,
+    "dia": "Lunes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 838,
+    "id_asignacion": 2153,
+    "dia": "Jueves",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 839,
+    "id_asignacion": 2152,
+    "dia": "Lunes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 840,
+    "id_asignacion": 2151,
+    "dia": "Miércoles",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 601"
+  },
+  {
+    "id_horario": 841,
+    "id_asignacion": 1141,
+    "dia": "Viernes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 842,
+    "id_asignacion": 1138,
+    "dia": "Miércoles",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 843,
+    "id_asignacion": 1137,
+    "dia": "Viernes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 844,
+    "id_asignacion": 1136,
+    "dia": "Martes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 845,
+    "id_asignacion": 2141,
+    "dia": "Viernes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 846,
+    "id_asignacion": 2138,
+    "dia": "Miércoles",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 847,
+    "id_asignacion": 2137,
+    "dia": "Viernes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 848,
+    "id_asignacion": 2136,
+    "dia": "Martes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 502"
+  },
+  {
+    "id_horario": 849,
+    "id_asignacion": 1126,
+    "dia": "Jueves",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 850,
+    "id_asignacion": 1123,
+    "dia": "Martes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 851,
+    "id_asignacion": 1122,
+    "dia": "Jueves",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 852,
+    "id_asignacion": 1121,
+    "dia": "Lunes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 853,
+    "id_asignacion": 2126,
+    "dia": "Jueves",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 854,
+    "id_asignacion": 2123,
+    "dia": "Martes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 855,
+    "id_asignacion": 2122,
+    "dia": "Jueves",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 856,
+    "id_asignacion": 2121,
+    "dia": "Lunes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 501"
+  },
+  {
+    "id_horario": 857,
+    "id_asignacion": 1111,
+    "dia": "Miércoles",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 858,
+    "id_asignacion": 1108,
+    "dia": "Lunes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 859,
+    "id_asignacion": 1107,
+    "dia": "Miércoles",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 860,
+    "id_asignacion": 1106,
+    "dia": "Viernes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 861,
+    "id_asignacion": 2111,
+    "dia": "Miércoles",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 862,
+    "id_asignacion": 2108,
+    "dia": "Lunes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 863,
+    "id_asignacion": 2107,
+    "dia": "Miércoles",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 864,
+    "id_asignacion": 2106,
+    "dia": "Viernes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 402"
+  },
+  {
+    "id_horario": 865,
+    "id_asignacion": 1096,
+    "dia": "Martes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 866,
+    "id_asignacion": 1093,
+    "dia": "Viernes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 867,
+    "id_asignacion": 1092,
+    "dia": "Martes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 868,
+    "id_asignacion": 1091,
+    "dia": "Jueves",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 869,
+    "id_asignacion": 2096,
+    "dia": "Martes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 870,
+    "id_asignacion": 2093,
+    "dia": "Viernes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 871,
+    "id_asignacion": 2092,
+    "dia": "Martes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 872,
+    "id_asignacion": 2091,
+    "dia": "Jueves",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 401"
+  },
+  {
+    "id_horario": 873,
+    "id_asignacion": 1081,
+    "dia": "Lunes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 874,
+    "id_asignacion": 1078,
+    "dia": "Jueves",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 875,
+    "id_asignacion": 1077,
+    "dia": "Lunes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 876,
+    "id_asignacion": 1076,
+    "dia": "Miércoles",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 877,
+    "id_asignacion": 2081,
+    "dia": "Lunes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 878,
+    "id_asignacion": 2078,
+    "dia": "Jueves",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 879,
+    "id_asignacion": 2077,
+    "dia": "Lunes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 880,
+    "id_asignacion": 2076,
+    "dia": "Miércoles",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 302"
+  },
+  {
+    "id_horario": 881,
+    "id_asignacion": 1066,
+    "dia": "Viernes",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 882,
+    "id_asignacion": 1063,
+    "dia": "Miércoles",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 883,
+    "id_asignacion": 1062,
+    "dia": "Viernes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 884,
+    "id_asignacion": 1061,
+    "dia": "Martes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 885,
+    "id_asignacion": 2066,
+    "dia": "Viernes",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 886,
+    "id_asignacion": 2063,
+    "dia": "Miércoles",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 887,
+    "id_asignacion": 2062,
+    "dia": "Viernes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 888,
+    "id_asignacion": 2061,
+    "dia": "Martes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 301"
+  },
+  {
+    "id_horario": 889,
+    "id_asignacion": 1051,
+    "dia": "Jueves",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 202"
+  },
+  {
+    "id_horario": 890,
+    "id_asignacion": 1048,
+    "dia": "Martes",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 202"
+  },
+  {
+    "id_horario": 891,
+    "id_asignacion": 1047,
+    "dia": "Jueves",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 202"
+  },
+  {
+    "id_horario": 892,
+    "id_asignacion": 1046,
+    "dia": "Lunes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 202"
+  },
+  {
+    "id_horario": 893,
+    "id_asignacion": 2051,
+    "dia": "Jueves",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 202"
+  },
+  {
+    "id_horario": 894,
+    "id_asignacion": 2048,
+    "dia": "Martes",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 202"
+  },
+  {
+    "id_horario": 895,
+    "id_asignacion": 2047,
+    "dia": "Jueves",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 202"
+  },
+  {
+    "id_horario": 896,
+    "id_asignacion": 2046,
+    "dia": "Lunes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 202"
+  },
+  {
+    "id_horario": 897,
+    "id_asignacion": 1036,
+    "dia": "Miércoles",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 201"
+  },
+  {
+    "id_horario": 898,
+    "id_asignacion": 1033,
+    "dia": "Lunes",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 201"
+  },
+  {
+    "id_horario": 899,
+    "id_asignacion": 1032,
+    "dia": "Miércoles",
+    "hora_inicio": "11:10",
+    "hora_fin": "12:00",
+    "aula": "Aula 201"
+  },
+  {
+    "id_horario": 900,
+    "id_asignacion": 1031,
+    "dia": "Viernes",
+    "hora_inicio": "10:20",
+    "hora_fin": "11:10",
+    "aula": "Aula 201"
+  },
+  {
+    "id_horario": 901,
+    "id_asignacion": 2036,
+    "dia": "Miércoles",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 201"
+  },
+  {
+    "id_horario": 902,
+    "id_asignacion": 2033,
+    "dia": "Lunes",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 201"
+  },
+  {
+    "id_horario": 903,
+    "id_asignacion": 2032,
+    "dia": "Miércoles",
+    "hora_inicio": "17:10",
+    "hora_fin": "18:00",
+    "aula": "Aula 201"
+  },
+  {
+    "id_horario": 904,
+    "id_asignacion": 2031,
+    "dia": "Viernes",
+    "hora_inicio": "16:20",
+    "hora_fin": "17:10",
+    "aula": "Aula 201"
+  },
+  {
+    "id_horario": 905,
+    "id_asignacion": 1018,
+    "dia": "Viernes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 102"
+  },
+  {
+    "id_horario": 906,
+    "id_asignacion": 1017,
+    "dia": "Martes",
+    "hora_inicio": "09:30",
+    "hora_fin": "10:20",
+    "aula": "Aula 102"
+  },
+  {
+    "id_horario": 907,
+    "id_asignacion": 1016,
+    "dia": "Jueves",
+    "hora_inicio": "08:10",
+    "hora_fin": "09:00",
+    "aula": "Aula 102"
+  },
+  {
+    "id_horario": 908,
+    "id_asignacion": 2018,
+    "dia": "Viernes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 102"
+  },
+  {
+    "id_horario": 909,
+    "id_asignacion": 2017,
+    "dia": "Martes",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:20",
+    "aula": "Aula 102"
+  },
+  {
+    "id_horario": 910,
+    "id_asignacion": 2016,
+    "dia": "Jueves",
+    "hora_inicio": "14:10",
+    "hora_fin": "15:00",
+    "aula": "Aula 102"
+  },
+  {
+    "id_horario": 911,
+    "id_asignacion": 1003,
+    "dia": "Jueves",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 101"
+  },
+  {
+    "id_horario": 912,
+    "id_asignacion": 1002,
+    "dia": "Lunes",
+    "hora_inicio": "07:20",
+    "hora_fin": "08:10",
+    "aula": "Aula 101"
+  },
+  {
+    "id_horario": 913,
+    "id_asignacion": 1001,
+    "dia": "Miércoles",
+    "hora_inicio": "06:30",
+    "hora_fin": "07:20",
+    "aula": "Aula 101"
+  },
+  {
+    "id_horario": 914,
+    "id_asignacion": 2003,
+    "dia": "Jueves",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 101"
+  },
+  {
+    "id_horario": 915,
+    "id_asignacion": 2002,
+    "dia": "Lunes",
+    "hora_inicio": "13:20",
+    "hora_fin": "14:10",
+    "aula": "Aula 101"
+  },
+  {
+    "id_horario": 916,
+    "id_asignacion": 2001,
+    "dia": "Miércoles",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:20",
+    "aula": "Aula 101"
+  }
+]

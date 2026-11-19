@@ -1,0 +1,282 @@
+[
+  {
+    "id_usuario": 1021,
+    "carga_academica": "24 horas semanales",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_usuario": 1022,
+    "carga_academica": "24 horas semanales",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_usuario": 1023,
+    "carga_academica": "18 horas semanales",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_usuario": 1024,
+    "carga_academica": "24 horas semanales",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_usuario": 1025,
+    "carga_academica": "24 horas semanales",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_usuario": 1026,
+    "carga_academica": "18 horas semanales",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_usuario": 1027,
+    "carga_academica": "24 horas semanales",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_usuario": 1028,
+    "carga_academica": "24 horas semanales",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_usuario": 1029,
+    "carga_academica": "18 horas semanales",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_usuario": 1030,
+    "carga_academica": "22 horas semanales",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_usuario": 1031,
+    "carga_academica": "22 horas semanales",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_usuario": 1032,
+    "carga_academica": "22 horas semanales",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_usuario": 1033,
+    "carga_academica": "22 horas semanales",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_usuario": 1034,
+    "carga_academica": "21 horas semanales",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_usuario": 1035,
+    "carga_academica": "21 horas semanales",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_usuario": 1036,
+    "carga_academica": "18 horas semanales",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_usuario": 1037,
+    "carga_academica": "18 horas semanales",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_usuario": 1038,
+    "carga_academica": "16 horas semanales",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_usuario": 1039,
+    "carga_academica": "14 horas semanales",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_usuario": 1040,
+    "carga_academica": "12 horas semanales",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_usuario": 1041,
+    "carga_academica": "12 horas semanales",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_usuario": 1042,
+    "carga_academica": "10 horas semanales",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_usuario": 1043,
+    "carga_academica": "8 horas semanales",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_usuario": 1044,
+    "carga_academica": "6 horas semanales",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_usuario": 1045,
+    "carga_academica": "6 horas semanales",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_usuario": 1046,
+    "carga_academica": "4 horas semanales",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_usuario": 1047,
+    "carga_academica": "4 horas semanales",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_usuario": 1048,
+    "carga_academica": "2 horas semanales",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_usuario": 2021,
+    "carga_academica": "24 horas semanales",
+    "jornada": "TARDE"
+  },
+  {
+    "id_usuario": 2022,
+    "carga_academica": "24 horas semanales",
+    "jornada": "TARDE"
+  },
+  {
+    "id_usuario": 2023,
+    "carga_academica": "18 horas semanales",
+    "jornada": "TARDE"
+  },
+  {
+    "id_usuario": 2024,
+    "carga_academica": "24 horas semanales",
+    "jornada": "TARDE"
+  },
+  {
+    "id_usuario": 2025,
+    "carga_academica": "24 horas semanales",
+    "jornada": "TARDE"
+  },
+  {
+    "id_usuario": 2026,
+    "carga_academica": "18 horas semanales",
+    "jornada": "TARDE"
+  },
+  {
+    "id_usuario": 2027,
+    "carga_academica": "24 horas semanales",
+    "jornada": "TARDE"
+  },
+  {
+    "id_usuario": 2028,
+    "carga_academica": "24 horas semanales",
+    "jornada": "TARDE"
+  },
+  {
+    "id_usuario": 2029,
+    "carga_academica": "18 horas semanales",
+    "jornada": "TARDE"
+  },
+  {
+    "id_usuario": 2030,
+    "carga_academica": "22 horas semanales",
+    "jornada": "TARDE"
+  },
+  {
+    "id_usuario": 2031,
+    "carga_academica": "22 horas semanales",
+    "jornada": "TARDE"
+  },
+  {
+    "id_usuario": 2032,
+    "carga_academica": "22 horas semanales",
+    "jornada": "TARDE"
+  },
+  {
+    "id_usuario": 2033,
+    "carga_academica": "22 horas semanales",
+    "jornada": "TARDE"
+  },
+  {
+    "id_usuario": 2034,
+    "carga_academica": "21 horas semanales",
+    "jornada": "TARDE"
+  },
+  {
+    "id_usuario": 2035,
+    "carga_academica": "21 horas semanales",
+    "jornada": "TARDE"
+  },
+  {
+    "id_usuario": 2036,
+    "carga_academica": "18 horas semanales",
+    "jornada": "TARDE"
+  },
+  {
+    "id_usuario": 2037,
+    "carga_academica": "18 horas semanales",
+    "jornada": "TARDE"
+  },
+  {
+    "id_usuario": 2038,
+    "carga_academica": "16 horas semanales",
+    "jornada": "TARDE"
+  },
+  {
+    "id_usuario": 2039,
+    "carga_academica": "14 horas semanales",
+    "jornada": "TARDE"
+  },
+  {
+    "id_usuario": 2040,
+    "carga_academica": "12 horas semanales",
+    "jornada": "TARDE"
+  },
+  {
+    "id_usuario": 2041,
+    "carga_academica": "12 horas semanales",
+    "jornada": "TARDE"
+  },
+  {
+    "id_usuario": 2042,
+    "carga_academica": "10 horas semanales",
+    "jornada": "TARDE"
+  },
+  {
+    "id_usuario": 2043,
+    "carga_academica": "8 horas semanales",
+    "jornada": "TARDE"
+  },
+  {
+    "id_usuario": 2044,
+    "carga_academica": "6 horas semanales",
+    "jornada": "TARDE"
+  },
+  {
+    "id_usuario": 2045,
+    "carga_academica": "6 horas semanales",
+    "jornada": "TARDE"
+  },
+  {
+    "id_usuario": 2046,
+    "carga_academica": "4 horas semanales",
+    "jornada": "TARDE"
+  },
+  {
+    "id_usuario": 2047,
+    "carga_academica": "4 horas semanales",
+    "jornada": "TARDE"
+  },
+  {
+    "id_usuario": 2048,
+    "carga_academica": "2 horas semanales",
+    "jornada": "TARDE"
+  }
+]

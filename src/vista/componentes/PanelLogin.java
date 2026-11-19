@@ -28,7 +28,6 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.SwingConstants;
 
-/** Panel del login: logo, textos, campos y botón con las medidas del diseño. */
 public class PanelLogin extends JPanel {
 
     private final CampoRedondeado campoUsuario = new CampoRedondeado(false, "Usuario");
@@ -113,7 +112,6 @@ public class PanelLogin extends JPanel {
         g2.setRenderingHint(RenderingHints.KEY_STROKE_CONTROL, RenderingHints.VALUE_STROKE_PURE);
         int w = getWidth();
 
-        // Brillo gris suave detrás del botón
         double rx = Estilo.px(400);
         double ry = Estilo.px(250);
         AffineTransform original = g2.getTransform();
@@ -124,26 +122,22 @@ public class PanelLogin extends JPanel {
         g2.fill(new Ellipse2D.Double(-rx, -rx, 2 * rx, 2 * rx));
         g2.setTransform(original);
 
-        // Logo
         if (logo != null) {
             int lw = Estilo.px(250);
             int lh = (int) Math.round(lw * logo.getHeight() / (double) logo.getWidth());
             g2.drawImage(logo, (w - lw) / 2, Estilo.px(103), lw, lh, null);
         }
 
-        // Título E.I.P.I
         Font titulo = Estilo.fuente(Estilo.NEGRITA, 66)
                 .deriveFont(Collections.singletonMap(TextAttribute.TRACKING, 0.12f));
         centrar(g2, "E.I.P.I", titulo, Estilo.AZUL, Estilo.px(325));
 
-        // Subtítulo y línea
         centrar(g2, "Accede a tu cuenta para continuar", Estilo.fuente(Estilo.REGULAR, 27),
                 Estilo.GRIS_TEXTO, Estilo.px(389));
         g2.setColor(Estilo.AZUL_LINEA);
         g2.fill(new RoundRectangle2D.Double(Estilo.px(401), Estilo.px(426), Estilo.px(298),
                 Math.max(2, Estilo.px(3)), 3, 3));
 
-        // Pie: —— Bienvenido a E.I.P.I ——
         Font fPie = Estilo.fuente(Estilo.REGULAR, 22);
         String pie = "Bienvenido a E.I.P.I";
         double tw = new TextLayout(pie, fPie, g2.getFontRenderContext()).getAdvance();

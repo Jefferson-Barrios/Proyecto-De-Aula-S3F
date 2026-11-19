@@ -21,7 +21,6 @@ import javax.swing.JPasswordField;
 import javax.swing.JTextField;
 import javax.swing.text.JTextComponent;
 
-/** Campo de texto (o contraseña) con borde redondeado, ícono y placeholder. */
 public class CampoRedondeado extends JPanel {
 
     private final boolean esClave;

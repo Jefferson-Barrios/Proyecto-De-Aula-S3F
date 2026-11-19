@@ -5,6 +5,7 @@ import java.time.LocalDate;
 public class PeriodoAcademico {
 
     private int idPeriodo;
+    private int idInstitucion;
     private String nombre;
     private LocalDate fechaInicio;
     private LocalDate fechaFin;
@@ -13,8 +14,10 @@ public class PeriodoAcademico {
     public PeriodoAcademico() {
     }
 
-    public PeriodoAcademico(int idPeriodo, String nombre, LocalDate fechaInicio, LocalDate fechaFin, String estado) {
+    public PeriodoAcademico(int idPeriodo, int idInstitucion, String nombre, LocalDate fechaInicio,
+                            LocalDate fechaFin, String estado) {
         this.idPeriodo = idPeriodo;
+        this.idInstitucion = idInstitucion;
         this.nombre = nombre;
         this.fechaInicio = fechaInicio;
         this.fechaFin = fechaFin;
@@ -27,6 +30,14 @@ public class PeriodoAcademico {
 
     public void setIdPeriodo(int idPeriodo) {
         this.idPeriodo = idPeriodo;
+    }
+
+    public int getIdInstitucion() {
+        return idInstitucion;
+    }
+
+    public void setIdInstitucion(int idInstitucion) {
+        this.idInstitucion = idInstitucion;
     }
 
     public String getNombre() {

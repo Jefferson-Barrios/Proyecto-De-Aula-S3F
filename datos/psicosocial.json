@@ -1,0 +1,26 @@
+[
+  {
+    "id_usuario": 1011,
+    "area": "Psicología Escolar",
+    "perfil_profesional": "Psicóloga, Especialista en Psicología Educativa",
+    "grados_monitorear": "1 a 6"
+  },
+  {
+    "id_usuario": 1012,
+    "area": "Trabajo Social",
+    "perfil_profesional": "Trabajador Social, Magíster en Intervención Familiar",
+    "grados_monitorear": "7 a 11"
+  },
+  {
+    "id_usuario": 2011,
+    "area": "Psicología Escolar",
+    "perfil_profesional": "Psicóloga, Especialista en Orientación Escolar",
+    "grados_monitorear": "1 a 6"
+  },
+  {
+    "id_usuario": 2012,
+    "area": "Trabajo Social",
+    "perfil_profesional": "Trabajador Social, Especialista en Gerencia Social",
+    "grados_monitorear": "7 a 11"
+  }
+]

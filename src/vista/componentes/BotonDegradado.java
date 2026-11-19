@@ -11,7 +11,6 @@ import java.awt.RenderingHints;
 import java.awt.geom.RoundRectangle2D;
 import javax.swing.JButton;
 
-/** Botón con degradado azul, texto blanco y flecha, como en el diseño. */
 public class BotonDegradado extends JButton {
 
     public BotonDegradado(String texto) {

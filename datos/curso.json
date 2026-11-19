@@ -1,0 +1,310 @@
+[
+  {
+    "id_curso": 101,
+    "id_institucion": 1,
+    "grado": "1",
+    "grupo": "01",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_curso": 102,
+    "id_institucion": 1,
+    "grado": "1",
+    "grupo": "02",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_curso": 1001,
+    "id_institucion": 1,
+    "grado": "10",
+    "grupo": "01",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_curso": 1002,
+    "id_institucion": 1,
+    "grado": "10",
+    "grupo": "02",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_curso": 1101,
+    "id_institucion": 1,
+    "grado": "11",
+    "grupo": "01",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_curso": 1102,
+    "id_institucion": 1,
+    "grado": "11",
+    "grupo": "02",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_curso": 201,
+    "id_institucion": 1,
+    "grado": "2",
+    "grupo": "01",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_curso": 202,
+    "id_institucion": 1,
+    "grado": "2",
+    "grupo": "02",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_curso": 301,
+    "id_institucion": 1,
+    "grado": "3",
+    "grupo": "01",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_curso": 302,
+    "id_institucion": 1,
+    "grado": "3",
+    "grupo": "02",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_curso": 401,
+    "id_institucion": 1,
+    "grado": "4",
+    "grupo": "01",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_curso": 402,
+    "id_institucion": 1,
+    "grado": "4",
+    "grupo": "02",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_curso": 501,
+    "id_institucion": 1,
+    "grado": "5",
+    "grupo": "01",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_curso": 502,
+    "id_institucion": 1,
+    "grado": "5",
+    "grupo": "02",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_curso": 601,
+    "id_institucion": 1,
+    "grado": "6",
+    "grupo": "01",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_curso": 602,
+    "id_institucion": 1,
+    "grado": "6",
+    "grupo": "02",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_curso": 701,
+    "id_institucion": 1,
+    "grado": "7",
+    "grupo": "01",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_curso": 702,
+    "id_institucion": 1,
+    "grado": "7",
+    "grupo": "02",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_curso": 801,
+    "id_institucion": 1,
+    "grado": "8",
+    "grupo": "01",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_curso": 802,
+    "id_institucion": 1,
+    "grado": "8",
+    "grupo": "02",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_curso": 901,
+    "id_institucion": 1,
+    "grado": "9",
+    "grupo": "01",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_curso": 902,
+    "id_institucion": 1,
+    "grado": "9",
+    "grupo": "02",
+    "jornada": "MAÑANA"
+  },
+  {
+    "id_curso": 10101,
+    "id_institucion": 2,
+    "grado": "1",
+    "grupo": "01",
+    "jornada": "TARDE"
+  },
+  {
+    "id_curso": 10102,
+    "id_institucion": 2,
+    "grado": "1",
+    "grupo": "02",
+    "jornada": "TARDE"
+  },
+  {
+    "id_curso": 11001,
+    "id_institucion": 2,
+    "grado": "10",
+    "grupo": "01",
+    "jornada": "TARDE"
+  },
+  {
+    "id_curso": 11002,
+    "id_institucion": 2,
+    "grado": "10",
+    "grupo": "02",
+    "jornada": "TARDE"
+  },
+  {
+    "id_curso": 11101,
+    "id_institucion": 2,
+    "grado": "11",
+    "grupo": "01",
+    "jornada": "TARDE"
+  },
+  {
+    "id_curso": 11102,
+    "id_institucion": 2,
+    "grado": "11",
+    "grupo": "02",
+    "jornada": "TARDE"
+  },
+  {
+    "id_curso": 10201,
+    "id_institucion": 2,
+    "grado": "2",
+    "grupo": "01",
+    "jornada": "TARDE"
+  },
+  {
+    "id_curso": 10202,
+    "id_institucion": 2,
+    "grado": "2",
+    "grupo": "02",
+    "jornada": "TARDE"
+  },
+  {
+    "id_curso": 10301,
+    "id_institucion": 2,
+    "grado": "3",
+    "grupo": "01",
+    "jornada": "TARDE"
+  },
+  {
+    "id_curso": 10302,
+    "id_institucion": 2,
+    "grado": "3",
+    "grupo": "02",
+    "jornada": "TARDE"
+  },
+  {
+    "id_curso": 10401,
+    "id_institucion": 2,
+    "grado": "4",
+    "grupo": "01",
+    "jornada": "TARDE"
+  },
+  {
+    "id_curso": 10402,
+    "id_institucion": 2,
+    "grado": "4",
+    "grupo": "02",
+    "jornada": "TARDE"
+  },
+  {
+    "id_curso": 10501,
+    "id_institucion": 2,
+    "grado": "5",
+    "grupo": "01",
+    "jornada": "TARDE"
+  },
+  {
+    "id_curso": 10502,
+    "id_institucion": 2,
+    "grado": "5",
+    "grupo": "02",
+    "jornada": "TARDE"
+  },
+  {
+    "id_curso": 10601,
+    "id_institucion": 2,
+    "grado": "6",
+    "grupo": "01",
+    "jornada": "TARDE"
+  },
+  {
+    "id_curso": 10602,
+    "id_institucion": 2,
+    "grado": "6",
+    "grupo": "02",
+    "jornada": "TARDE"
+  },
+  {
+    "id_curso": 10701,
+    "id_institucion": 2,
+    "grado": "7",
+    "grupo": "01",
+    "jornada": "TARDE"
+  },
+  {
+    "id_curso": 10702,
+    "id_institucion": 2,
+    "grado": "7",
+    "grupo": "02",
+    "jornada": "TARDE"
+  },
+  {
+    "id_curso": 10801,
+    "id_institucion": 2,
+    "grado": "8",
+    "grupo": "01",
+    "jornada": "TARDE"
+  },
+  {
+    "id_curso": 10802,
+    "id_institucion": 2,
+    "grado": "8",
+    "grupo": "02",
+    "jornada": "TARDE"
+  },
+  {
+    "id_curso": 10901,
+    "id_institucion": 2,
+    "grado": "9",
+    "grupo": "01",
+    "jornada": "TARDE"
+  },
+  {
+    "id_curso": 10902,
+    "id_institucion": 2,
+    "grado": "9",
+    "grupo": "02",
+    "jornada": "TARDE"
+  }
+]

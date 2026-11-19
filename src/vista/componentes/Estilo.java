@@ -4,16 +4,17 @@ import java.awt.Color;
 import java.awt.Font;
 import java.awt.GraphicsEnvironment;
 import java.awt.Toolkit;
+import java.awt.image.BufferedImage;
+import java.io.IOException;
 import java.io.InputStream;
+import java.net.URL;
+import javax.imageio.ImageIO;
 
-/** Colores, fuentes y escala del diseño del login. */
 public final class Estilo {
 
-    /** Tamaño del diseño original (en "unidades de diseño"). */
     public static final int DISENO_ANCHO = 1100;
     public static final int DISENO_ALTO = 1137;
 
-    /** Escala que se ajusta sola a la altura de la pantalla. */
     public static final double ESCALA = calcularEscala();
 
     public static final int REGULAR = 0;
@@ -33,6 +34,13 @@ public final class Estilo {
     public static final Color DEGRADE_IZQ = new Color(0x2F3581);
     public static final Color DEGRADE_DER = new Color(0x1F57C6);
 
+    public static final Color TEXTO = new Color(0x1F2A44);
+    public static final Color BORDE = new Color(0xE3E8F5);
+    public static final Color SELECCION = new Color(0xE6EDFF);
+    public static final Color ENCABEZADO_TABLA = new Color(0xEEF2FF);
+    public static final Color ROJO = new Color(0xC0392B);
+    public static final Color VERDE = new Color(0x1E8E5A);
+
     private static final Font F_REGULAR = cargar("Poppins-Regular.ttf", Font.PLAIN);
     private static final Font F_MEDIO = cargar("Poppins-Medium.ttf", Font.PLAIN);
     private static final Font F_NEGRITA = cargar("Poppins-Bold.ttf", Font.BOLD);
@@ -50,15 +58,34 @@ public final class Estilo {
         }
     }
 
-    /** Convierte una medida del diseño a píxeles reales. */
     public static int px(double v) {
         return (int) Math.round(v * ESCALA);
     }
 
-    /** Fuente Poppins (REGULAR, MEDIO o NEGRITA) con tamaño en unidades de diseño. */
     public static Font fuente(int peso, double tamano) {
         Font base = peso == NEGRITA ? F_NEGRITA : (peso == MEDIO ? F_MEDIO : F_REGULAR);
         return base.deriveFont((float) (tamano * ESCALA));
+    }
+
+    public static Font fuentePx(int peso, float tamano) {
+        Font base = peso == NEGRITA ? F_NEGRITA : (peso == MEDIO ? F_MEDIO : F_REGULAR);
+        return base.deriveFont(tamano);
+    }
+
+    private static BufferedImage logo;
+
+    public static synchronized BufferedImage logo() {
+        if (logo == null) {
+            URL url = Estilo.class.getResource("/recursos/logo.png");
+            if (url != null) {
+                try {
+                    logo = ImageIO.read(url);
+                } catch (IOException ex) {
+                    logo = null;
+                }
+            }
+        }
+        return logo;
     }
 
     private static Font cargar(String archivo, int estiloRespaldo) {
@@ -69,7 +96,7 @@ public final class Estilo {
                 return f;
             }
         } catch (Exception ex) {
-            // si falla, se usa la fuente de respaldo
+
         }
         return new Font("SansSerif", estiloRespaldo, 12);
     }

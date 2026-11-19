@@ -1,0 +1,182 @@
+[
+  {
+    "id_materia": 101,
+    "id_institucion": 1,
+    "nombre": "Matemáticas",
+    "descripcion": "Pensamiento numérico, variacional y geométrico"
+  },
+  {
+    "id_materia": 102,
+    "id_institucion": 1,
+    "nombre": "Lengua Castellana",
+    "descripcion": "Comprensión lectora y producción textual"
+  },
+  {
+    "id_materia": 103,
+    "id_institucion": 1,
+    "nombre": "Ciencias Naturales",
+    "descripcion": "Entorno vivo, físico y ciencia, tecnología y sociedad"
+  },
+  {
+    "id_materia": 104,
+    "id_institucion": 1,
+    "nombre": "Ciencias Sociales",
+    "descripcion": "Historia, geografía y constitución política"
+  },
+  {
+    "id_materia": 105,
+    "id_institucion": 1,
+    "nombre": "Educación Física",
+    "descripcion": "Desarrollo motriz, recreación y deporte"
+  },
+  {
+    "id_materia": 106,
+    "id_institucion": 1,
+    "nombre": "Inglés",
+    "descripcion": "Lengua extranjera inglés"
+  },
+  {
+    "id_materia": 107,
+    "id_institucion": 1,
+    "nombre": "Educación Artística",
+    "descripcion": "Expresión artística y cultural"
+  },
+  {
+    "id_materia": 108,
+    "id_institucion": 1,
+    "nombre": "Ética y Valores",
+    "descripcion": "Formación en valores y convivencia"
+  },
+  {
+    "id_materia": 109,
+    "id_institucion": 1,
+    "nombre": "Religión",
+    "descripcion": "Educación religiosa escolar"
+  },
+  {
+    "id_materia": 110,
+    "id_institucion": 1,
+    "nombre": "Informática",
+    "descripcion": "Tecnología e informática"
+  },
+  {
+    "id_materia": 111,
+    "id_institucion": 1,
+    "nombre": "Geometría",
+    "descripcion": "Razonamiento espacial y geométrico"
+  },
+  {
+    "id_materia": 112,
+    "id_institucion": 1,
+    "nombre": "Estadística",
+    "descripcion": "Análisis de datos y probabilidad"
+  },
+  {
+    "id_materia": 113,
+    "id_institucion": 1,
+    "nombre": "Física",
+    "descripcion": "Mecánica, energía y fenómenos físicos"
+  },
+  {
+    "id_materia": 114,
+    "id_institucion": 1,
+    "nombre": "Química",
+    "descripcion": "Materia, reacciones y laboratorio"
+  },
+  {
+    "id_materia": 115,
+    "id_institucion": 1,
+    "nombre": "Filosofía",
+    "descripcion": "Pensamiento crítico y problemas filosóficos"
+  },
+  {
+    "id_materia": 201,
+    "id_institucion": 2,
+    "nombre": "Matemáticas",
+    "descripcion": "Pensamiento numérico, variacional y geométrico"
+  },
+  {
+    "id_materia": 202,
+    "id_institucion": 2,
+    "nombre": "Lengua Castellana",
+    "descripcion": "Comprensión lectora y producción textual"
+  },
+  {
+    "id_materia": 203,
+    "id_institucion": 2,
+    "nombre": "Ciencias Naturales",
+    "descripcion": "Entorno vivo, físico y ciencia, tecnología y sociedad"
+  },
+  {
+    "id_materia": 204,
+    "id_institucion": 2,
+    "nombre": "Ciencias Sociales",
+    "descripcion": "Historia, geografía y constitución política"
+  },
+  {
+    "id_materia": 205,
+    "id_institucion": 2,
+    "nombre": "Educación Física",
+    "descripcion": "Desarrollo motriz, recreación y deporte"
+  },
+  {
+    "id_materia": 206,
+    "id_institucion": 2,
+    "nombre": "Inglés",
+    "descripcion": "Lengua extranjera inglés"
+  },
+  {
+    "id_materia": 207,
+    "id_institucion": 2,
+    "nombre": "Educación Artística",
+    "descripcion": "Expresión artística y cultural"
+  },
+  {
+    "id_materia": 208,
+    "id_institucion": 2,
+    "nombre": "Ética y Valores",
+    "descripcion": "Formación en valores y convivencia"
+  },
+  {
+    "id_materia": 209,
+    "id_institucion": 2,
+    "nombre": "Religión",
+    "descripcion": "Educación religiosa escolar"
+  },
+  {
+    "id_materia": 210,
+    "id_institucion": 2,
+    "nombre": "Informática",
+    "descripcion": "Tecnología e informática"
+  },
+  {
+    "id_materia": 211,
+    "id_institucion": 2,
+    "nombre": "Geometría",
+    "descripcion": "Razonamiento espacial y geométrico"
+  },
+  {
+    "id_materia": 212,
+    "id_institucion": 2,
+    "nombre": "Estadística",
+    "descripcion": "Análisis de datos y probabilidad"
+  },
+  {
+    "id_materia": 213,
+    "id_institucion": 2,
+    "nombre": "Física",
+    "descripcion": "Mecánica, energía y fenómenos físicos"
+  },
+  {
+    "id_materia": 214,
+    "id_institucion": 2,
+    "nombre": "Química",
+    "descripcion": "Materia, reacciones y laboratorio"
+  },
+  {
+    "id_materia": 215,
+    "id_institucion": 2,
+    "nombre": "Filosofía",
+    "descripcion": "Pensamiento crítico y problemas filosóficos"
+  }
+]

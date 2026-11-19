@@ -1,0 +1,1780 @@
+[
+  {
+    "id_comentario": 1,
+    "id_expediente": 8,
+    "id_docente": 1030,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 2,
+    "id_expediente": 11,
+    "id_docente": 1024,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 3,
+    "id_expediente": 16,
+    "id_docente": 1024,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 4,
+    "id_expediente": 19,
+    "id_docente": 1032,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 5,
+    "id_expediente": 24,
+    "id_docente": 1032,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 6,
+    "id_expediente": 35,
+    "id_docente": 1021,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 7,
+    "id_expediente": 38,
+    "id_docente": 1030,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 8,
+    "id_expediente": 43,
+    "id_docente": 1030,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 9,
+    "id_expediente": 46,
+    "id_docente": 1024,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 10,
+    "id_expediente": 51,
+    "id_docente": 1024,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 11,
+    "id_expediente": 62,
+    "id_docente": 1032,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 12,
+    "id_expediente": 65,
+    "id_docente": 1024,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 13,
+    "id_expediente": 70,
+    "id_docente": 1021,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 14,
+    "id_expediente": 73,
+    "id_docente": 1030,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 15,
+    "id_expediente": 89,
+    "id_docente": 1024,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 16,
+    "id_expediente": 92,
+    "id_docente": 1032,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 17,
+    "id_expediente": 97,
+    "id_docente": 1030,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 18,
+    "id_expediente": 100,
+    "id_docente": 1021,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 19,
+    "id_expediente": 103,
+    "id_docente": 1030,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 20,
+    "id_expediente": 116,
+    "id_docente": 1032,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 21,
+    "id_expediente": 119,
+    "id_docente": 1024,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 22,
+    "id_expediente": 124,
+    "id_docente": 1037,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 23,
+    "id_expediente": 127,
+    "id_docente": 1027,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 24,
+    "id_expediente": 130,
+    "id_docente": 1034,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 25,
+    "id_expediente": 143,
+    "id_docente": 1032,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 26,
+    "id_expediente": 146,
+    "id_docente": 1021,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 27,
+    "id_expediente": 151,
+    "id_docente": 1034,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 28,
+    "id_expediente": 154,
+    "id_docente": 1024,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 29,
+    "id_expediente": 157,
+    "id_docente": 1032,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 30,
+    "id_expediente": 162,
+    "id_docente": 1027,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 31,
+    "id_expediente": 170,
+    "id_docente": 1030,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 32,
+    "id_expediente": 173,
+    "id_docente": 1037,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 33,
+    "id_expediente": 181,
+    "id_docente": 1024,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 34,
+    "id_expediente": 184,
+    "id_docente": 1032,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 35,
+    "id_expediente": 189,
+    "id_docente": 1024,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 36,
+    "id_expediente": 197,
+    "id_docente": 1024,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 37,
+    "id_expediente": 200,
+    "id_docente": 1032,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 38,
+    "id_expediente": 203,
+    "id_docente": 1038,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 39,
+    "id_expediente": 208,
+    "id_docente": 1032,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 40,
+    "id_expediente": 211,
+    "id_docente": 1038,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 41,
+    "id_expediente": 216,
+    "id_docente": 1032,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 42,
+    "id_expediente": 224,
+    "id_docente": 1032,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 43,
+    "id_expediente": 227,
+    "id_docente": 1038,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 44,
+    "id_expediente": 230,
+    "id_docente": 1027,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 45,
+    "id_expediente": 235,
+    "id_docente": 1038,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 46,
+    "id_expediente": 238,
+    "id_docente": 1027,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 47,
+    "id_expediente": 243,
+    "id_docente": 1028,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 48,
+    "id_expediente": 251,
+    "id_docente": 1025,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 49,
+    "id_expediente": 254,
+    "id_docente": 1032,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 50,
+    "id_expediente": 257,
+    "id_docente": 1038,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 51,
+    "id_expediente": 262,
+    "id_docente": 1030,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 52,
+    "id_expediente": 265,
+    "id_docente": 1037,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 53,
+    "id_expediente": 270,
+    "id_docente": 1028,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 54,
+    "id_expediente": 281,
+    "id_docente": 1032,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 55,
+    "id_expediente": 284,
+    "id_docente": 1038,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 56,
+    "id_expediente": 289,
+    "id_docente": 1030,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 57,
+    "id_expediente": 292,
+    "id_docente": 1037,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 58,
+    "id_expediente": 297,
+    "id_docente": 1028,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 59,
+    "id_expediente": 308,
+    "id_docente": 1039,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 60,
+    "id_expediente": 311,
+    "id_docente": 1025,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 61,
+    "id_expediente": 316,
+    "id_docente": 1037,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 62,
+    "id_expediente": 319,
+    "id_docente": 1040,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 63,
+    "id_expediente": 324,
+    "id_docente": 1032,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 64,
+    "id_expediente": 335,
+    "id_docente": 1035,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 65,
+    "id_expediente": 338,
+    "id_docente": 1039,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 66,
+    "id_expediente": 343,
+    "id_docente": 1031,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 67,
+    "id_expediente": 346,
+    "id_docente": 1037,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 68,
+    "id_expediente": 351,
+    "id_docente": 1025,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 69,
+    "id_expediente": 362,
+    "id_docente": 1042,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 70,
+    "id_expediente": 365,
+    "id_docente": 1028,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 71,
+    "id_expediente": 370,
+    "id_docente": 1038,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 72,
+    "id_expediente": 373,
+    "id_docente": 1042,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 73,
+    "id_expediente": 389,
+    "id_docente": 1033,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 74,
+    "id_expediente": 392,
+    "id_docente": 1038,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 75,
+    "id_expediente": 397,
+    "id_docente": 1025,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 76,
+    "id_expediente": 400,
+    "id_docente": 1033,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 77,
+    "id_expediente": 403,
+    "id_docente": 1038,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 78,
+    "id_expediente": 416,
+    "id_docente": 1040,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 79,
+    "id_expediente": 419,
+    "id_docente": 1025,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 80,
+    "id_expediente": 424,
+    "id_docente": 1022,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 81,
+    "id_expediente": 427,
+    "id_docente": 1031,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 82,
+    "id_expediente": 430,
+    "id_docente": 1037,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 83,
+    "id_expediente": 443,
+    "id_docente": 1038,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 84,
+    "id_expediente": 446,
+    "id_docente": 1042,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 85,
+    "id_expediente": 451,
+    "id_docente": 1031,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 86,
+    "id_expediente": 454,
+    "id_docente": 1037,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 87,
+    "id_expediente": 457,
+    "id_docente": 1040,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 88,
+    "id_expediente": 462,
+    "id_docente": 1028,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 89,
+    "id_expediente": 470,
+    "id_docente": 1042,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 90,
+    "id_expediente": 473,
+    "id_docente": 1025,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 91,
+    "id_expediente": 481,
+    "id_docente": 1039,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 92,
+    "id_expediente": 484,
+    "id_docente": 1043,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 93,
+    "id_expediente": 489,
+    "id_docente": 1031,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 94,
+    "id_expediente": 497,
+    "id_docente": 1043,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 95,
+    "id_expediente": 500,
+    "id_docente": 1026,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 96,
+    "id_expediente": 503,
+    "id_docente": 1033,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 97,
+    "id_expediente": 508,
+    "id_docente": 1041,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 98,
+    "id_expediente": 511,
+    "id_docente": 1044,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 99,
+    "id_expediente": 516,
+    "id_docente": 1033,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 100,
+    "id_expediente": 524,
+    "id_docente": 1044,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 101,
+    "id_expediente": 527,
+    "id_docente": 1029,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 102,
+    "id_expediente": 530,
+    "id_docente": 1036,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 103,
+    "id_expediente": 535,
+    "id_docente": 1042,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 104,
+    "id_expediente": 538,
+    "id_docente": 1023,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 105,
+    "id_expediente": 543,
+    "id_docente": 1036,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 106,
+    "id_expediente": 551,
+    "id_docente": 1046,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 107,
+    "id_expediente": 554,
+    "id_docente": 1029,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 108,
+    "id_expediente": 557,
+    "id_docente": 1036,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 109,
+    "id_expediente": 562,
+    "id_docente": 1042,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 110,
+    "id_expediente": 565,
+    "id_docente": 1046,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 111,
+    "id_expediente": 570,
+    "id_docente": 1033,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 112,
+    "id_expediente": 581,
+    "id_docente": 1026,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 113,
+    "id_expediente": 584,
+    "id_docente": 1033,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 114,
+    "id_expediente": 589,
+    "id_docente": 1041,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 115,
+    "id_expediente": 592,
+    "id_docente": 1045,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 116,
+    "id_expediente": 597,
+    "id_docente": 1031,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 117,
+    "id_expediente": 608,
+    "id_docente": 1047,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 118,
+    "id_expediente": 611,
+    "id_docente": 1026,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 119,
+    "id_expediente": 616,
+    "id_docente": 1037,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 120,
+    "id_expediente": 619,
+    "id_docente": 1041,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 121,
+    "id_expediente": 624,
+    "id_docente": 1048,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 122,
+    "id_expediente": 635,
+    "id_docente": 1042,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 123,
+    "id_expediente": 638,
+    "id_docente": 1047,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 124,
+    "id_expediente": 643,
+    "id_docente": 1031,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 125,
+    "id_expediente": 646,
+    "id_docente": 1037,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 126,
+    "id_expediente": 651,
+    "id_docente": 1043,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 127,
+    "id_expediente": 662,
+    "id_docente": 2027,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 128,
+    "id_expediente": 665,
+    "id_docente": 2021,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 129,
+    "id_expediente": 668,
+    "id_docente": 2030,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 130,
+    "id_expediente": 673,
+    "id_docente": 2030,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 131,
+    "id_expediente": 676,
+    "id_docente": 2024,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 132,
+    "id_expediente": 681,
+    "id_docente": 2024,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 133,
+    "id_expediente": 692,
+    "id_docente": 2027,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 134,
+    "id_expediente": 695,
+    "id_docente": 2021,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 135,
+    "id_expediente": 700,
+    "id_docente": 2021,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 136,
+    "id_expediente": 703,
+    "id_docente": 2030,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 137,
+    "id_expediente": 708,
+    "id_docente": 2030,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 138,
+    "id_expediente": 719,
+    "id_docente": 2032,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 139,
+    "id_expediente": 722,
+    "id_docente": 2027,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 140,
+    "id_expediente": 727,
+    "id_docente": 2024,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 141,
+    "id_expediente": 730,
+    "id_docente": 2032,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 142,
+    "id_expediente": 735,
+    "id_docente": 2030,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 143,
+    "id_expediente": 746,
+    "id_docente": 2027,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 144,
+    "id_expediente": 749,
+    "id_docente": 2034,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 145,
+    "id_expediente": 754,
+    "id_docente": 2032,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 146,
+    "id_expediente": 757,
+    "id_docente": 2024,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 147,
+    "id_expediente": 762,
+    "id_docente": 2021,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 148,
+    "id_expediente": 773,
+    "id_docente": 2034,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 149,
+    "id_expediente": 776,
+    "id_docente": 2027,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 150,
+    "id_expediente": 781,
+    "id_docente": 2027,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 151,
+    "id_expediente": 784,
+    "id_docente": 2034,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 152,
+    "id_expediente": 800,
+    "id_docente": 2021,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 153,
+    "id_expediente": 803,
+    "id_docente": 2030,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 154,
+    "id_expediente": 808,
+    "id_docente": 2024,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 155,
+    "id_expediente": 811,
+    "id_docente": 2032,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 156,
+    "id_expediente": 814,
+    "id_docente": 2021,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 157,
+    "id_expediente": 827,
+    "id_docente": 2037,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 158,
+    "id_expediente": 830,
+    "id_docente": 2027,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 159,
+    "id_expediente": 835,
+    "id_docente": 2021,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 160,
+    "id_expediente": 838,
+    "id_docente": 2030,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 161,
+    "id_expediente": 841,
+    "id_docente": 2024,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 162,
+    "id_expediente": 854,
+    "id_docente": 2037,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 163,
+    "id_expediente": 857,
+    "id_docente": 2024,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 164,
+    "id_expediente": 862,
+    "id_docente": 2037,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 165,
+    "id_expediente": 865,
+    "id_docente": 2024,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 166,
+    "id_expediente": 868,
+    "id_docente": 2032,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 167,
+    "id_expediente": 873,
+    "id_docente": 2024,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 168,
+    "id_expediente": 881,
+    "id_docente": 2024,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 169,
+    "id_expediente": 884,
+    "id_docente": 2032,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 170,
+    "id_expediente": 892,
+    "id_docente": 2032,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 171,
+    "id_expediente": 895,
+    "id_docente": 2038,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 172,
+    "id_expediente": 900,
+    "id_docente": 2032,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 173,
+    "id_expediente": 908,
+    "id_docente": 2039,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 174,
+    "id_expediente": 911,
+    "id_docente": 2028,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 175,
+    "id_expediente": 914,
+    "id_docente": 2034,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 176,
+    "id_expediente": 919,
+    "id_docente": 2025,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 177,
+    "id_expediente": 922,
+    "id_docente": 2032,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 178,
+    "id_expediente": 927,
+    "id_docente": 2022,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 179,
+    "id_expediente": 935,
+    "id_docente": 2039,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 180,
+    "id_expediente": 938,
+    "id_docente": 2028,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 181,
+    "id_expediente": 941,
+    "id_docente": 2035,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 182,
+    "id_expediente": 946,
+    "id_docente": 2025,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 183,
+    "id_expediente": 949,
+    "id_docente": 2032,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 184,
+    "id_expediente": 954,
+    "id_docente": 2022,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 185,
+    "id_expediente": 962,
+    "id_docente": 2028,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 186,
+    "id_expediente": 965,
+    "id_docente": 2035,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 187,
+    "id_expediente": 968,
+    "id_docente": 2039,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 188,
+    "id_expediente": 973,
+    "id_docente": 2030,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 189,
+    "id_expediente": 976,
+    "id_docente": 2037,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 190,
+    "id_expediente": 981,
+    "id_docente": 2025,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 191,
+    "id_expediente": 992,
+    "id_docente": 2028,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 192,
+    "id_expediente": 995,
+    "id_docente": 2035,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 193,
+    "id_expediente": 1000,
+    "id_docente": 2022,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 194,
+    "id_expediente": 1003,
+    "id_docente": 2031,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 195,
+    "id_expediente": 1008,
+    "id_docente": 2039,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 196,
+    "id_expediente": 1019,
+    "id_docente": 2040,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 197,
+    "id_expediente": 1022,
+    "id_docente": 2040,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 198,
+    "id_expediente": 1027,
+    "id_docente": 2031,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 199,
+    "id_expediente": 1030,
+    "id_docente": 2037,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 200,
+    "id_expediente": 1035,
+    "id_docente": 2022,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 201,
+    "id_expediente": 1046,
+    "id_docente": 2022,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 202,
+    "id_expediente": 1049,
+    "id_docente": 2031,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 203,
+    "id_expediente": 1054,
+    "id_docente": 2039,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 204,
+    "id_expediente": 1057,
+    "id_docente": 2022,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 205,
+    "id_expediente": 1062,
+    "id_docente": 2035,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 206,
+    "id_expediente": 1073,
+    "id_docente": 2035,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 207,
+    "id_expediente": 1076,
+    "id_docente": 2039,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 208,
+    "id_expediente": 1081,
+    "id_docente": 2025,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 209,
+    "id_expediente": 1084,
+    "id_docente": 2033,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 210,
+    "id_expediente": 1100,
+    "id_docente": 2039,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 211,
+    "id_expediente": 1103,
+    "id_docente": 2043,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 212,
+    "id_expediente": 1108,
+    "id_docente": 2033,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 213,
+    "id_expediente": 1111,
+    "id_docente": 2038,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 214,
+    "id_expediente": 1114,
+    "id_docente": 2042,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 215,
+    "id_expediente": 1127,
+    "id_docente": 2043,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 216,
+    "id_expediente": 1130,
+    "id_docente": 2028,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 217,
+    "id_expediente": 1135,
+    "id_docente": 2038,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 218,
+    "id_expediente": 1138,
+    "id_docente": 2042,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 219,
+    "id_expediente": 1141,
+    "id_docente": 2038,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 220,
+    "id_expediente": 1154,
+    "id_docente": 2038,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 221,
+    "id_expediente": 1157,
+    "id_docente": 2042,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 222,
+    "id_expediente": 1162,
+    "id_docente": 2029,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 223,
+    "id_expediente": 1165,
+    "id_docente": 2036,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 224,
+    "id_expediente": 1168,
+    "id_docente": 2039,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 225,
+    "id_expediente": 1173,
+    "id_docente": 2023,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 226,
+    "id_expediente": 1181,
+    "id_docente": 2039,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 227,
+    "id_expediente": 1184,
+    "id_docente": 2043,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 228,
+    "id_expediente": 1192,
+    "id_docente": 2037,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 229,
+    "id_expediente": 1195,
+    "id_docente": 2041,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 230,
+    "id_expediente": 1200,
+    "id_docente": 2026,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 231,
+    "id_expediente": 1208,
+    "id_docente": 2029,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 232,
+    "id_expediente": 1211,
+    "id_docente": 2036,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 233,
+    "id_expediente": 1214,
+    "id_docente": 2039,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 234,
+    "id_expediente": 1219,
+    "id_docente": 2046,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 235,
+    "id_expediente": 1222,
+    "id_docente": 2029,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 236,
+    "id_expediente": 1227,
+    "id_docente": 2038,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 237,
+    "id_expediente": 1235,
+    "id_docente": 2026,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 238,
+    "id_expediente": 1238,
+    "id_docente": 2033,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 239,
+    "id_expediente": 1241,
+    "id_docente": 2038,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 240,
+    "id_expediente": 1246,
+    "id_docente": 2045,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 241,
+    "id_expediente": 1249,
+    "id_docente": 2026,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 242,
+    "id_expediente": 1254,
+    "id_docente": 2037,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-09-17"
+  },
+  {
+    "id_comentario": 243,
+    "id_expediente": 1262,
+    "id_docente": 2029,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 244,
+    "id_expediente": 1265,
+    "id_docente": 2036,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 245,
+    "id_expediente": 1268,
+    "id_docente": 2039,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 246,
+    "id_expediente": 1273,
+    "id_docente": 2047,
+    "contenido": "Estudiante con inasistencias frecuentes y bajo rendimiento; se remite a orientación psicosocial.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 247,
+    "id_expediente": 1276,
+    "id_docente": 2026,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 248,
+    "id_expediente": 1281,
+    "id_docente": 2037,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-10-08"
+  },
+  {
+    "id_comentario": 249,
+    "id_expediente": 1292,
+    "id_docente": 2029,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-10-01"
+  },
+  {
+    "id_comentario": 250,
+    "id_expediente": 1295,
+    "id_docente": 2036,
+    "contenido": "Presenta llegadas tarde e inasistencias aisladas; se dialoga con el estudiante.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 251,
+    "id_expediente": 1300,
+    "id_docente": 2042,
+    "contenido": "Reporta dificultades en casa que afectan su permanencia; se solicita acompañamiento prioritario.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id_comentario": 252,
+    "id_expediente": 1303,
+    "id_docente": 2047,
+    "contenido": "Se observa baja en las notas del último periodo; se programa tutoría personalizada.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 253,
+    "id_expediente": 1308,
+    "id_docente": 2031,
+    "contenido": "Se evidencia desmotivación y poca participación; se cita al acudiente para acuerdo de compromiso.",
+    "fecha": "2026-09-24"
+  },
+  {
+    "id_comentario": 254,
+    "id_expediente": 1319,
+    "id_docente": 2048,
+    "contenido": "Se recomienda seguimiento y refuerzo académico en las áreas con menor desempeño.",
+    "fecha": "2026-09-17"
+  }
+]

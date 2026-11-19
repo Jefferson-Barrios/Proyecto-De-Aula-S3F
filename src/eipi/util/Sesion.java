@@ -2,7 +2,6 @@ package eipi.util;
 
 import modelo.Usuario;
 
-/** Guarda el usuario que inició sesión mientras la aplicación está abierta. */
 public class Sesion {
 
     private static Usuario usuarioActual;

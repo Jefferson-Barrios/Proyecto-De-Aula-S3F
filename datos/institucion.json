@@ -1,0 +1,30 @@
+[
+  {
+    "id_institucion": 1,
+    "id_administrador": 1,
+    "nombre": "Institución Educativa Nuevo Horizonte",
+    "codigo_oficial": "113001000101",
+    "sede_principal": "Carrera 56 #31-45",
+    "barrio_sector": "Olaya Herrera",
+    "telefono_institucional": "6056641101",
+    "correo_institucional": "contacto@nuevohorizonte.eipi.test",
+    "nombre_rector": "Marlene Esther Barrios Cantillo",
+    "correo_responsable": "dir1001@eipi.test",
+    "telefono_responsable": "3015550101",
+    "estado": "ACTIVO"
+  },
+  {
+    "id_institucion": 2,
+    "id_administrador": 1,
+    "nombre": "Institución Educativa Mar y Esperanza",
+    "codigo_oficial": "113001000202",
+    "sede_principal": "Diagonal 21 #45-30",
+    "barrio_sector": "El Pozón",
+    "telefono_institucional": "6056652202",
+    "correo_institucional": "contacto@maryesperanza.eipi.test",
+    "nombre_rector": "Jorge Enrique Castillo Meza",
+    "correo_responsable": "dir2001@eipi.test",
+    "telefono_responsable": "3025550201",
+    "estado": "ACTIVO"
+  }
+]
